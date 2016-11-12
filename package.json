@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-visualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -f index.html src --no-ui --no-notify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rvazquezglez/restaurant-visualization.git"
+  },
+  "keywords": [],
+  "author": "Raúl Vázquez",
+  "licence": "BSD3",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "browser-sync": "2.16.0"
+  }
+}

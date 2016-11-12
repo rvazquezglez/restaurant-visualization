@@ -1,0 +1,6505 @@
+{
+  "name": "Sample",
+  "children": [
+    {
+      "name": "Topic 0",
+      "children": [
+        {
+          "name": "dim",
+          "weight": 0.146812000509
+        },
+        {
+          "name": "pastrami",
+          "weight": 0.0291072398317
+        },
+        {
+          "name": "sahara",
+          "weight": 0.0262786019771
+        },
+        {
+          "name": "chop",
+          "weight": 0.0224878460079
+        },
+        {
+          "name": "setup",
+          "weight": 0.0182478062423
+        },
+        {
+          "name": "dollars",
+          "weight": 0.0175921287476
+        },
+        {
+          "name": "beach",
+          "weight": 0.0151467508587
+        },
+        {
+          "name": "scale",
+          "weight": 0.0138009476101
+        },
+        {
+          "name": "leg",
+          "weight": 0.0133604486767
+        },
+        {
+          "name": "wash",
+          "weight": 0.0133043757371
+        },
+        {
+          "name": "lounge",
+          "weight": 0.0120041121849
+        },
+        {
+          "name": "adventure",
+          "weight": 0.0117764611727
+        },
+        {
+          "name": "audio",
+          "weight": 0.0116136437202
+        },
+        {
+          "name": "hip",
+          "weight": 0.0102324561261
+        },
+        {
+          "name": "status",
+          "weight": 0.0102031007684
+        }
+      ]
+    },
+    {
+      "name": "Topic 1",
+      "children": [
+        {
+          "name": "dirty",
+          "weight": 0.0510590220102
+        },
+        {
+          "name": "downstairs",
+          "weight": 0.0364991590995
+        },
+        {
+          "name": "carpet",
+          "weight": 0.0360188545447
+        },
+        {
+          "name": "fav",
+          "weight": 0.0358672367663
+        },
+        {
+          "name": "wynn",
+          "weight": 0.0337300965557
+        },
+        {
+          "name": "ball",
+          "weight": 0.0271149558793
+        },
+        {
+          "name": "smell",
+          "weight": 0.0268701436806
+        },
+        {
+          "name": "convenient",
+          "weight": 0.0250912240415
+        },
+        {
+          "name": "shitty",
+          "weight": 0.024054190138
+        },
+        {
+          "name": "pictures",
+          "weight": 0.0232963542373
+        },
+        {
+          "name": "apps",
+          "weight": 0.0208128113273
+        },
+        {
+          "name": "thirsty",
+          "weight": 0.0196970219778
+        },
+        {
+          "name": "pet",
+          "weight": 0.017872241599
+        },
+        {
+          "name": "martinis",
+          "weight": 0.0135900121425
+        },
+        {
+          "name": "self",
+          "weight": 0.0126449031884
+        }
+      ]
+    },
+    {
+      "name": "Topic 2",
+      "children": [
+        {
+          "name": "im",
+          "weight": 0.0490111390095
+        },
+        {
+          "name": "cards",
+          "weight": 0.030076217818
+        },
+        {
+          "name": "clean",
+          "weight": 0.0262402443479
+        },
+        {
+          "name": "cheaper",
+          "weight": 0.0254572367832
+        },
+        {
+          "name": "peak",
+          "weight": 0.0248677437738
+        },
+        {
+          "name": "prawns",
+          "weight": 0.0205684547278
+        },
+        {
+          "name": "floors",
+          "weight": 0.0194412773719
+        },
+        {
+          "name": "dinning",
+          "weight": 0.0186081295142
+        },
+        {
+          "name": "cooler",
+          "weight": 0.0182007889484
+        },
+        {
+          "name": "saturdays",
+          "weight": 0.0178114791348
+        },
+        {
+          "name": "charm",
+          "weight": 0.0163023304355
+        },
+        {
+          "name": "obnoxious",
+          "weight": 0.0161498951984
+        },
+        {
+          "name": "owned",
+          "weight": 0.0155332801619
+        },
+        {
+          "name": "competition",
+          "weight": 0.0143475937433
+        },
+        {
+          "name": "waits",
+          "weight": 0.0142843238658
+        }
+      ]
+    },
+    {
+      "name": "Topic 3",
+      "children": [
+        {
+          "name": "hangout",
+          "weight": 0.03486652254
+        },
+        {
+          "name": "slots",
+          "weight": 0.032521620601
+        },
+        {
+          "name": "bull",
+          "weight": 0.0278343453365
+        },
+        {
+          "name": "pit",
+          "weight": 0.027167838269
+        },
+        {
+          "name": "wont",
+          "weight": 0.0243500666996
+        },
+        {
+          "name": "lines",
+          "weight": 0.0205730162297
+        },
+        {
+          "name": "donut",
+          "weight": 0.0196367161334
+        },
+        {
+          "name": "jalapeno",
+          "weight": 0.0188142164753
+        },
+        {
+          "name": "uncle",
+          "weight": 0.0184291991875
+        },
+        {
+          "name": "loose",
+          "weight": 0.0182519104126
+        },
+        {
+          "name": "hooked",
+          "weight": 0.0154347806598
+        },
+        {
+          "name": "keeping",
+          "weight": 0.0145836762505
+        },
+        {
+          "name": "cares",
+          "weight": 0.0140933184611
+        },
+        {
+          "name": "cousin",
+          "weight": 0.0130544392602
+        },
+        {
+          "name": "ranch",
+          "weight": 0.0128960217449
+        }
+      ]
+    },
+    {
+      "name": "Topic 4",
+      "children": [
+        {
+          "name": "pretzel",
+          "weight": 0.0452008241107
+        },
+        {
+          "name": "great",
+          "weight": 0.0406442322115
+        },
+        {
+          "name": "brewery",
+          "weight": 0.0275882704011
+        },
+        {
+          "name": "improved",
+          "weight": 0.0234838266964
+        },
+        {
+          "name": "relaxed",
+          "weight": 0.0233152973284
+        },
+        {
+          "name": "fees",
+          "weight": 0.0226947638318
+        },
+        {
+          "name": "love",
+          "weight": 0.0224833150883
+        },
+        {
+          "name": "awesome",
+          "weight": 0.0224371180031
+        },
+        {
+          "name": "service",
+          "weight": 0.019014253286
+        },
+        {
+          "name": "shells",
+          "weight": 0.0175178667479
+        },
+        {
+          "name": "businesses",
+          "weight": 0.017253516739
+        },
+        {
+          "name": "acts",
+          "weight": 0.0169675467377
+        },
+        {
+          "name": "pants",
+          "weight": 0.016596942818
+        },
+        {
+          "name": "cleanliness",
+          "weight": 0.016144071051
+        },
+        {
+          "name": "tray",
+          "weight": 0.0159065887813
+        }
+      ]
+    },
+    {
+      "name": "Topic 5",
+      "children": [
+        {
+          "name": "kilt",
+          "weight": 0.0785109280297
+        },
+        {
+          "name": "kale",
+          "weight": 0.0420151409562
+        },
+        {
+          "name": "heavenly",
+          "weight": 0.0324031552525
+        },
+        {
+          "name": "cocktail",
+          "weight": 0.0308477376901
+        },
+        {
+          "name": "fix",
+          "weight": 0.0229191762594
+        },
+        {
+          "name": "everyday",
+          "weight": 0.0227331864168
+        },
+        {
+          "name": "stops",
+          "weight": 0.0188746671968
+        },
+        {
+          "name": "rolling",
+          "weight": 0.016756726107
+        },
+        {
+          "name": "hawaii",
+          "weight": 0.0161190294394
+        },
+        {
+          "name": "peach",
+          "weight": 0.0155311404091
+        },
+        {
+          "name": "mistakes",
+          "weight": 0.014225361754
+        },
+        {
+          "name": "twist",
+          "weight": 0.0139591141535
+        },
+        {
+          "name": "ins",
+          "weight": 0.0137917082096
+        },
+        {
+          "name": "jar",
+          "weight": 0.0136807238786
+        },
+        {
+          "name": "faves",
+          "weight": 0.0135287342219
+        }
+      ]
+    },
+    {
+      "name": "Topic 6",
+      "children": [
+        {
+          "name": "burrito",
+          "weight": 0.0670850766945
+        },
+        {
+          "name": "tater",
+          "weight": 0.0245745203351
+        },
+        {
+          "name": "brother",
+          "weight": 0.020171155065
+        },
+        {
+          "name": "taps",
+          "weight": 0.0191770261947
+        },
+        {
+          "name": "italian",
+          "weight": 0.0158453123125
+        },
+        {
+          "name": "patties",
+          "weight": 0.0113240499686
+        },
+        {
+          "name": "forth",
+          "weight": 0.0112174930295
+        },
+        {
+          "name": "worse",
+          "weight": 0.0106313032005
+        },
+        {
+          "name": "justin",
+          "weight": 0.0102711176553
+        },
+        {
+          "name": "burned",
+          "weight": 0.00958113987484
+        },
+        {
+          "name": "shall",
+          "weight": 0.00953069524179
+        },
+        {
+          "name": "nevada",
+          "weight": 0.00916720315203
+        },
+        {
+          "name": "uniforms",
+          "weight": 0.00808566569503
+        },
+        {
+          "name": "lean",
+          "weight": 0.00765772996273
+        },
+        {
+          "name": "fond",
+          "weight": 0.00762643640422
+        }
+      ]
+    },
+    {
+      "name": "Topic 7",
+      "children": [
+        {
+          "name": "balcony",
+          "weight": 0.0339872852949
+        },
+        {
+          "name": "silverware",
+          "weight": 0.0295236047081
+        },
+        {
+          "name": "access",
+          "weight": 0.0293822922252
+        },
+        {
+          "name": "asada",
+          "weight": 0.0286290564665
+        },
+        {
+          "name": "blonde",
+          "weight": 0.0188231933416
+        },
+        {
+          "name": "aria",
+          "weight": 0.0182683294787
+        },
+        {
+          "name": "casino",
+          "weight": 0.0180777121159
+        },
+        {
+          "name": "theres",
+          "weight": 0.0180475692944
+        },
+        {
+          "name": "stopping",
+          "weight": 0.0176875117113
+        },
+        {
+          "name": "difference",
+          "weight": 0.0164621949976
+        },
+        {
+          "name": "chipotle",
+          "weight": 0.0131675737451
+        },
+        {
+          "name": "major",
+          "weight": 0.0123856208125
+        },
+        {
+          "name": "napkins",
+          "weight": 0.0120923639829
+        },
+        {
+          "name": "pico",
+          "weight": 0.011716395554
+        },
+        {
+          "name": "venezuela",
+          "weight": 0.0115619668185
+        }
+      ]
+    },
+    {
+      "name": "Topic 8",
+      "children": [
+        {
+          "name": "walnut",
+          "weight": 0.0286678081048
+        },
+        {
+          "name": "wrap",
+          "weight": 0.0275370508684
+        },
+        {
+          "name": "lv",
+          "weight": 0.0250582951444
+        },
+        {
+          "name": "bass",
+          "weight": 0.0183038584405
+        },
+        {
+          "name": "personality",
+          "weight": 0.0180376312333
+        },
+        {
+          "name": "village",
+          "weight": 0.017704564314
+        },
+        {
+          "name": "bisque",
+          "weight": 0.0170244597154
+        },
+        {
+          "name": "san",
+          "weight": 0.0151433312542
+        },
+        {
+          "name": "joe",
+          "weight": 0.0149691858988
+        },
+        {
+          "name": "deck",
+          "weight": 0.0132710654097
+        },
+        {
+          "name": "sea",
+          "weight": 0.0132435954351
+        },
+        {
+          "name": "kong",
+          "weight": 0.0115433369407
+        },
+        {
+          "name": "diego",
+          "weight": 0.0113946425682
+        },
+        {
+          "name": "hong",
+          "weight": 0.0108130694243
+        },
+        {
+          "name": "clad",
+          "weight": 0.0104585762026
+        }
+      ]
+    },
+    {
+      "name": "Topic 9",
+      "children": [
+        {
+          "name": "denny",
+          "weight": 0.0396432842504
+        },
+        {
+          "name": "budget",
+          "weight": 0.0327471998768
+        },
+        {
+          "name": "delish",
+          "weight": 0.0286963577367
+        },
+        {
+          "name": "members",
+          "weight": 0.0251538686888
+        },
+        {
+          "name": "21",
+          "weight": 0.0202050643681
+        },
+        {
+          "name": "liking",
+          "weight": 0.0198472057813
+        },
+        {
+          "name": "hr",
+          "weight": 0.0197952985688
+        },
+        {
+          "name": "posted",
+          "weight": 0.016786706352
+        },
+        {
+          "name": "derby",
+          "weight": 0.0166254605106
+        },
+        {
+          "name": "vegetarian",
+          "weight": 0.0161667370897
+        },
+        {
+          "name": "echo",
+          "weight": 0.0151929130145
+        },
+        {
+          "name": "arugula",
+          "weight": 0.0148777208132
+        },
+        {
+          "name": "shoes",
+          "weight": 0.0146820018561
+        },
+        {
+          "name": "dealer",
+          "weight": 0.0138341015293
+        },
+        {
+          "name": "healthier",
+          "weight": 0.0136721523385
+        }
+      ]
+    },
+    {
+      "name": "Topic 10",
+      "children": [
+        {
+          "name": "buffet",
+          "weight": 0.0941616432162
+        },
+        {
+          "name": "pizza",
+          "weight": 0.0910915241813
+        },
+        {
+          "name": "caesar",
+          "weight": 0.0289449958719
+        },
+        {
+          "name": "sub",
+          "weight": 0.0170780619585
+        },
+        {
+          "name": "par",
+          "weight": 0.0151027513742
+        },
+        {
+          "name": "tortilla",
+          "weight": 0.0144106475422
+        },
+        {
+          "name": "soup",
+          "weight": 0.0125555476565
+        },
+        {
+          "name": "salad",
+          "weight": 0.0119583441673
+        },
+        {
+          "name": "madness",
+          "weight": 0.0107438548388
+        },
+        {
+          "name": "pepperoni",
+          "weight": 0.0103742789757
+        },
+        {
+          "name": "hd",
+          "weight": 0.00955235960168
+        },
+        {
+          "name": "canned",
+          "weight": 0.00885255513586
+        },
+        {
+          "name": "pool",
+          "weight": 0.00835342046956
+        },
+        {
+          "name": "24",
+          "weight": 0.00792910341077
+        },
+        {
+          "name": "minus",
+          "weight": 0.00785337441986
+        }
+      ]
+    },
+    {
+      "name": "Topic 11",
+      "children": [
+        {
+          "name": "pool",
+          "weight": 0.0172351877798
+        },
+        {
+          "name": "empanadas",
+          "weight": 0.0137642959256
+        },
+        {
+          "name": "cart",
+          "weight": 0.0116542786119
+        },
+        {
+          "name": "fridge",
+          "weight": 0.0110240068102
+        },
+        {
+          "name": "children",
+          "weight": 0.0103858637771
+        },
+        {
+          "name": "passion",
+          "weight": 0.0084498011079
+        },
+        {
+          "name": "rip",
+          "weight": 0.00814605140087
+        },
+        {
+          "name": "bottles",
+          "weight": 0.00808686742483
+        },
+        {
+          "name": "fixed",
+          "weight": 0.00785281976795
+        },
+        {
+          "name": "delivery",
+          "weight": 0.0074501312189
+        },
+        {
+          "name": "shops",
+          "weight": 0.00705807565834
+        },
+        {
+          "name": "smaller",
+          "weight": 0.00700926766887
+        },
+        {
+          "name": "encountered",
+          "weight": 0.00621338902221
+        },
+        {
+          "name": "sketchy",
+          "weight": 0.00613053562248
+        },
+        {
+          "name": "class",
+          "weight": 0.00599456611202
+        }
+      ]
+    },
+    {
+      "name": "Topic 12",
+      "children": [
+        {
+          "name": "service",
+          "weight": 0.0103563778779
+        },
+        {
+          "name": "minutes",
+          "weight": 0.00964784242299
+        },
+        {
+          "name": "manager",
+          "weight": 0.0092311306718
+        },
+        {
+          "name": "hotel",
+          "weight": 0.00873722557131
+        },
+        {
+          "name": "time",
+          "weight": 0.00864990894522
+        },
+        {
+          "name": "came",
+          "weight": 0.00828686782541
+        },
+        {
+          "name": "took",
+          "weight": 0.0081152516935
+        },
+        {
+          "name": "room",
+          "weight": 0.00790107549648
+        },
+        {
+          "name": "waitress",
+          "weight": 0.00776423313857
+        },
+        {
+          "name": "asked",
+          "weight": 0.00767312503728
+        },
+        {
+          "name": "order",
+          "weight": 0.00734652172411
+        },
+        {
+          "name": "horrible",
+          "weight": 0.00707125459335
+        },
+        {
+          "name": "got",
+          "weight": 0.00705755139222
+        },
+        {
+          "name": "just",
+          "weight": 0.00687723050208
+        },
+        {
+          "name": "didn",
+          "weight": 0.00686166563864
+        }
+      ]
+    },
+    {
+      "name": "Topic 13",
+      "children": [
+        {
+          "name": "islands",
+          "weight": 0.0311699106522
+        },
+        {
+          "name": "cab",
+          "weight": 0.0241958091623
+        },
+        {
+          "name": "buddies",
+          "weight": 0.0220202169317
+        },
+        {
+          "name": "jambalaya",
+          "weight": 0.0181587526842
+        },
+        {
+          "name": "steal",
+          "weight": 0.017144016377
+        },
+        {
+          "name": "eatery",
+          "weight": 0.0160908327149
+        },
+        {
+          "name": "queen",
+          "weight": 0.0159792118339
+        },
+        {
+          "name": "unwind",
+          "weight": 0.0152846747131
+        },
+        {
+          "name": "chicks",
+          "weight": 0.0148639260341
+        },
+        {
+          "name": "scrambled",
+          "weight": 0.0139363260248
+        },
+        {
+          "name": "kim",
+          "weight": 0.0127761737637
+        },
+        {
+          "name": "walks",
+          "weight": 0.0122544939553
+        },
+        {
+          "name": "overwhelming",
+          "weight": 0.011981058491
+        },
+        {
+          "name": "scallops",
+          "weight": 0.0117576814242
+        },
+        {
+          "name": "maintained",
+          "weight": 0.0115610760404
+        }
+      ]
+    },
+    {
+      "name": "Topic 14",
+      "children": [
+        {
+          "name": "environment",
+          "weight": 0.0342173583559
+        },
+        {
+          "name": "flight",
+          "weight": 0.0305261489814
+        },
+        {
+          "name": "everytime",
+          "weight": 0.0244906288112
+        },
+        {
+          "name": "rate",
+          "weight": 0.022248396364
+        },
+        {
+          "name": "disgusting",
+          "weight": 0.0185398534792
+        },
+        {
+          "name": "takeout",
+          "weight": 0.0163388626106
+        },
+        {
+          "name": "aces",
+          "weight": 0.0144145613742
+        },
+        {
+          "name": "eve",
+          "weight": 0.0136540547609
+        },
+        {
+          "name": "threw",
+          "weight": 0.0130949575309
+        },
+        {
+          "name": "heck",
+          "weight": 0.0128341790477
+        },
+        {
+          "name": "purchase",
+          "weight": 0.0128113283358
+        },
+        {
+          "name": "account",
+          "weight": 0.0127055758905
+        },
+        {
+          "name": "key",
+          "weight": 0.0124613930263
+        },
+        {
+          "name": "lox",
+          "weight": 0.0123994122796
+        },
+        {
+          "name": "maintenance",
+          "weight": 0.0121460590404
+        }
+      ]
+    },
+    {
+      "name": "Topic 15",
+      "children": [
+        {
+          "name": "concert",
+          "weight": 0.0423035960347
+        },
+        {
+          "name": "ale",
+          "weight": 0.0333746023464
+        },
+        {
+          "name": "king",
+          "weight": 0.0300553497486
+        },
+        {
+          "name": "yum",
+          "weight": 0.0288186231013
+        },
+        {
+          "name": "henderson",
+          "weight": 0.0279970572846
+        },
+        {
+          "name": "omg",
+          "weight": 0.0264400605477
+        },
+        {
+          "name": "22",
+          "weight": 0.0236732882176
+        },
+        {
+          "name": "apologetic",
+          "weight": 0.0183538644617
+        },
+        {
+          "name": "hits",
+          "weight": 0.0183162088487
+        },
+        {
+          "name": "chops",
+          "weight": 0.0178196883149
+        },
+        {
+          "name": "square",
+          "weight": 0.0161408282199
+        },
+        {
+          "name": "angus",
+          "weight": 0.0147045246822
+        },
+        {
+          "name": "baby",
+          "weight": 0.0142110806962
+        },
+        {
+          "name": "elvis",
+          "weight": 0.0138914005035
+        },
+        {
+          "name": "duh",
+          "weight": 0.0111429096503
+        }
+      ]
+    },
+    {
+      "name": "Topic 16",
+      "children": [
+        {
+          "name": "tea",
+          "weight": 0.0244056040056
+        },
+        {
+          "name": "iced",
+          "weight": 0.0238370862555
+        },
+        {
+          "name": "donuts",
+          "weight": 0.022602146132
+        },
+        {
+          "name": "compared",
+          "weight": 0.0113179274053
+        },
+        {
+          "name": "smokers",
+          "weight": 0.0109741706925
+        },
+        {
+          "name": "informative",
+          "weight": 0.00915102653074
+        },
+        {
+          "name": "dukes",
+          "weight": 0.00856454118228
+        },
+        {
+          "name": "gate",
+          "weight": 0.00849092481361
+        },
+        {
+          "name": "blocks",
+          "weight": 0.00734539388099
+        },
+        {
+          "name": "singers",
+          "weight": 0.0068289150898
+        },
+        {
+          "name": "chai",
+          "weight": 0.00601850990689
+        },
+        {
+          "name": "searching",
+          "weight": 0.00593669666213
+        },
+        {
+          "name": "drive",
+          "weight": 0.00592145880935
+        },
+        {
+          "name": "decently",
+          "weight": 0.00584496300789
+        },
+        {
+          "name": "brewed",
+          "weight": 0.00568407988183
+        }
+      ]
+    },
+    {
+      "name": "Topic 17",
+      "children": [
+        {
+          "name": "ufc",
+          "weight": 0.0752401083884
+        },
+        {
+          "name": "gaming",
+          "weight": 0.0361536397437
+        },
+        {
+          "name": "machines",
+          "weight": 0.0306163668495
+        },
+        {
+          "name": "affordable",
+          "weight": 0.029009145521
+        },
+        {
+          "name": "slot",
+          "weight": 0.0252234970344
+        },
+        {
+          "name": "block",
+          "weight": 0.0247004460137
+        },
+        {
+          "name": "jack",
+          "weight": 0.0218424172684
+        },
+        {
+          "name": "pancake",
+          "weight": 0.0182767967694
+        },
+        {
+          "name": "espn",
+          "weight": 0.0175823514392
+        },
+        {
+          "name": "lol",
+          "weight": 0.0138244640741
+        },
+        {
+          "name": "yuck",
+          "weight": 0.0126122291133
+        },
+        {
+          "name": "wedges",
+          "weight": 0.0123221922992
+        },
+        {
+          "name": "tv",
+          "weight": 0.0115864487942
+        },
+        {
+          "name": "coworker",
+          "weight": 0.0113625381613
+        },
+        {
+          "name": "oily",
+          "weight": 0.0113396471929
+        }
+      ]
+    },
+    {
+      "name": "Topic 18",
+      "children": [
+        {
+          "name": "rice",
+          "weight": 0.0178884064648
+        },
+        {
+          "name": "fried",
+          "weight": 0.0171672783252
+        },
+        {
+          "name": "chicken",
+          "weight": 0.0155173196799
+        },
+        {
+          "name": "steak",
+          "weight": 0.0130817780165
+        },
+        {
+          "name": "casino",
+          "weight": 0.0120534084208
+        },
+        {
+          "name": "good",
+          "weight": 0.00955207927103
+        },
+        {
+          "name": "medium",
+          "weight": 0.00897670890432
+        },
+        {
+          "name": "sauce",
+          "weight": 0.00866826999099
+        },
+        {
+          "name": "seafood",
+          "weight": 0.00748783403794
+        },
+        {
+          "name": "ordered",
+          "weight": 0.00743685413717
+        },
+        {
+          "name": "beef",
+          "weight": 0.00722473572708
+        },
+        {
+          "name": "crispy",
+          "weight": 0.00706766397017
+        },
+        {
+          "name": "salt",
+          "weight": 0.00704510575582
+        },
+        {
+          "name": "pepper",
+          "weight": 0.00682099360242
+        },
+        {
+          "name": "thai",
+          "weight": 0.0066773358941
+        }
+      ]
+    },
+    {
+      "name": "Topic 19",
+      "children": [
+        {
+          "name": "nfl",
+          "weight": 0.0513944641512
+        },
+        {
+          "name": "fight",
+          "weight": 0.0424945263968
+        },
+        {
+          "name": "ticket",
+          "weight": 0.0304661312937
+        },
+        {
+          "name": "chorizo",
+          "weight": 0.0293126232058
+        },
+        {
+          "name": "brunch",
+          "weight": 0.0290696533524
+        },
+        {
+          "name": "postino",
+          "weight": 0.0219295811095
+        },
+        {
+          "name": "broke",
+          "weight": 0.0200014754874
+        },
+        {
+          "name": "dare",
+          "weight": 0.0119911163734
+        },
+        {
+          "name": "patient",
+          "weight": 0.0112909891387
+        },
+        {
+          "name": "hesitate",
+          "weight": 0.011258609255
+        },
+        {
+          "name": "dime",
+          "weight": 0.0108674680344
+        },
+        {
+          "name": "quinoa",
+          "weight": 0.0105618013836
+        },
+        {
+          "name": "hunt",
+          "weight": 0.0102764730449
+        },
+        {
+          "name": "sunday",
+          "weight": 0.00962305668696
+        },
+        {
+          "name": "darn",
+          "weight": 0.00960353633302
+        }
+      ]
+    },
+    {
+      "name": "Topic 20",
+      "children": [
+        {
+          "name": "boneless",
+          "weight": 0.0648888239503
+        },
+        {
+          "name": "blackjack",
+          "weight": 0.0373120408847
+        },
+        {
+          "name": "turkey",
+          "weight": 0.0331118329528
+        },
+        {
+          "name": "avocado",
+          "weight": 0.0296851261413
+        },
+        {
+          "name": "casino",
+          "weight": 0.0250091924023
+        },
+        {
+          "name": "smoked",
+          "weight": 0.0194712006726
+        },
+        {
+          "name": "favor",
+          "weight": 0.0185710974894
+        },
+        {
+          "name": "cuz",
+          "weight": 0.0181041882137
+        },
+        {
+          "name": "bellagio",
+          "weight": 0.0170266816251
+        },
+        {
+          "name": "mgm",
+          "weight": 0.0165623358714
+        },
+        {
+          "name": "mcdonalds",
+          "weight": 0.012851004645
+        },
+        {
+          "name": "zone",
+          "weight": 0.0119694558779
+        },
+        {
+          "name": "charges",
+          "weight": 0.0116551360584
+        },
+        {
+          "name": "sooo",
+          "weight": 0.0111456373829
+        },
+        {
+          "name": "caprese",
+          "weight": 0.00905771079817
+        }
+      ]
+    },
+    {
+      "name": "Topic 21",
+      "children": [
+        {
+          "name": "wings",
+          "weight": 0.121991770589
+        },
+        {
+          "name": "buffalo",
+          "weight": 0.0324636965508
+        },
+        {
+          "name": "queso",
+          "weight": 0.0163377920522
+        },
+        {
+          "name": "garlic",
+          "weight": 0.0159476426067
+        },
+        {
+          "name": "bbq",
+          "weight": 0.0131254360301
+        },
+        {
+          "name": "vic",
+          "weight": 0.0110094835548
+        },
+        {
+          "name": "bww",
+          "weight": 0.0108076256535
+        },
+        {
+          "name": "pts",
+          "weight": 0.0100038384876
+        },
+        {
+          "name": "parmesan",
+          "weight": 0.00961976795598
+        },
+        {
+          "name": "sauce",
+          "weight": 0.00945868850169
+        },
+        {
+          "name": "lower",
+          "weight": 0.00861068134904
+        },
+        {
+          "name": "hot",
+          "weight": 0.00820861172239
+        },
+        {
+          "name": "island",
+          "weight": 0.00820465184574
+        },
+        {
+          "name": "mild",
+          "weight": 0.00772752628804
+        },
+        {
+          "name": "chili",
+          "weight": 0.00713789605064
+        }
+      ]
+    },
+    {
+      "name": "Topic 22",
+      "children": [
+        {
+          "name": "hotels",
+          "weight": 0.0604045718263
+        },
+        {
+          "name": "buffets",
+          "weight": 0.0394701574461
+        },
+        {
+          "name": "empanada",
+          "weight": 0.0212562302323
+        },
+        {
+          "name": "dealers",
+          "weight": 0.0207340194846
+        },
+        {
+          "name": "pong",
+          "weight": 0.0178031593885
+        },
+        {
+          "name": "peanut",
+          "weight": 0.0174510046395
+        },
+        {
+          "name": "skimpy",
+          "weight": 0.0135233319752
+        },
+        {
+          "name": "meatball",
+          "weight": 0.0110356226185
+        },
+        {
+          "name": "plentiful",
+          "weight": 0.0107356498347
+        },
+        {
+          "name": "condiments",
+          "weight": 0.0106561974217
+        },
+        {
+          "name": "monkey",
+          "weight": 0.0102381754297
+        },
+        {
+          "name": "wasted",
+          "weight": 0.00998046284436
+        },
+        {
+          "name": "4pm",
+          "weight": 0.00918578601345
+        },
+        {
+          "name": "potential",
+          "weight": 0.00914170179789
+        },
+        {
+          "name": "rub",
+          "weight": 0.00891471601877
+        }
+      ]
+    },
+    {
+      "name": "Topic 23",
+      "children": [
+        {
+          "name": "sports",
+          "weight": 0.0402873651148
+        },
+        {
+          "name": "chinese",
+          "weight": 0.018857797199
+        },
+        {
+          "name": "bar",
+          "weight": 0.0163560087396
+        },
+        {
+          "name": "place",
+          "weight": 0.0094855319616
+        },
+        {
+          "name": "good",
+          "weight": 0.00879090038443
+        },
+        {
+          "name": "great",
+          "weight": 0.00791740274531
+        },
+        {
+          "name": "zipps",
+          "weight": 0.00635734411727
+        },
+        {
+          "name": "shower",
+          "weight": 0.00619331697599
+        },
+        {
+          "name": "beer",
+          "weight": 0.00596838023358
+        },
+        {
+          "name": "like",
+          "weight": 0.00518909216029
+        },
+        {
+          "name": "service",
+          "weight": 0.00481303500122
+        },
+        {
+          "name": "girls",
+          "weight": 0.00465796887601
+        },
+        {
+          "name": "just",
+          "weight": 0.00452653593208
+        },
+        {
+          "name": "don",
+          "weight": 0.0041787106358
+        },
+        {
+          "name": "drink",
+          "weight": 0.00403010017059
+        }
+      ]
+    },
+    {
+      "name": "Topic 24",
+      "children": [
+        {
+          "name": "gluten",
+          "weight": 0.0316785101897
+        },
+        {
+          "name": "free",
+          "weight": 0.0313527289928
+        },
+        {
+          "name": "majerle",
+          "weight": 0.0206837782313
+        },
+        {
+          "name": "hall",
+          "weight": 0.0198584481573
+        },
+        {
+          "name": "toilet",
+          "weight": 0.0176880951813
+        },
+        {
+          "name": "35",
+          "weight": 0.0168610704402
+        },
+        {
+          "name": "craps",
+          "weight": 0.0159946742536
+        },
+        {
+          "name": "casino",
+          "weight": 0.0139353868696
+        },
+        {
+          "name": "male",
+          "weight": 0.0131366692732
+        },
+        {
+          "name": "hooter",
+          "weight": 0.0122342631948
+        },
+        {
+          "name": "dan",
+          "weight": 0.0121818137827
+        },
+        {
+          "name": "custard",
+          "weight": 0.0119819778351
+        },
+        {
+          "name": "hallway",
+          "weight": 0.0116101990595
+        },
+        {
+          "name": "freakin",
+          "weight": 0.0106939838703
+        },
+        {
+          "name": "cardinals",
+          "weight": 0.0104448117191
+        }
+      ]
+    },
+    {
+      "name": "Topic 25",
+      "children": [
+        {
+          "name": "coconut",
+          "weight": 0.0303903354224
+        },
+        {
+          "name": "training",
+          "weight": 0.0303168154651
+        },
+        {
+          "name": "creek",
+          "weight": 0.0289438369327
+        },
+        {
+          "name": "terrific",
+          "weight": 0.0281013241699
+        },
+        {
+          "name": "spring",
+          "weight": 0.0233976363973
+        },
+        {
+          "name": "smelled",
+          "weight": 0.0229437681037
+        },
+        {
+          "name": "march",
+          "weight": 0.0219228203614
+        },
+        {
+          "name": "kung",
+          "weight": 0.0181763311008
+        },
+        {
+          "name": "pao",
+          "weight": 0.017576230668
+        },
+        {
+          "name": "wow",
+          "weight": 0.0164267596899
+        },
+        {
+          "name": "mr",
+          "weight": 0.0151014429326
+        },
+        {
+          "name": "hunter",
+          "weight": 0.0131803360837
+        },
+        {
+          "name": "treats",
+          "weight": 0.0114995871911
+        },
+        {
+          "name": "boot",
+          "weight": 0.0114928215463
+        },
+        {
+          "name": "plans",
+          "weight": 0.0111683302881
+        }
+      ]
+    },
+    {
+      "name": "Topic 26",
+      "children": [
+        {
+          "name": "beds",
+          "weight": 0.0580698018212
+        },
+        {
+          "name": "calamari",
+          "weight": 0.0281850995547
+        },
+        {
+          "name": "protein",
+          "weight": 0.0238191724099
+        },
+        {
+          "name": "dancing",
+          "weight": 0.0226955241577
+        },
+        {
+          "name": "wedding",
+          "weight": 0.0190757152919
+        },
+        {
+          "name": "planet",
+          "weight": 0.0179394819674
+        },
+        {
+          "name": "guests",
+          "weight": 0.0160360321308
+        },
+        {
+          "name": "clams",
+          "weight": 0.014868132662
+        },
+        {
+          "name": "reception",
+          "weight": 0.0144853425216
+        },
+        {
+          "name": "pull",
+          "weight": 0.0112699118372
+        },
+        {
+          "name": "helps",
+          "weight": 0.0109991397304
+        },
+        {
+          "name": "11pm",
+          "weight": 0.0106215223248
+        },
+        {
+          "name": "email",
+          "weight": 0.0106123926898
+        },
+        {
+          "name": "spanish",
+          "weight": 0.0105802767898
+        },
+        {
+          "name": "shorts",
+          "weight": 0.0103838857423
+        }
+      ]
+    },
+    {
+      "name": "Topic 27",
+      "children": [
+        {
+          "name": "pancakes",
+          "weight": 0.05513811596
+        },
+        {
+          "name": "99",
+          "weight": 0.0208894505757
+        },
+        {
+          "name": "crepe",
+          "weight": 0.0202389064064
+        },
+        {
+          "name": "golf",
+          "weight": 0.0170865377147
+        },
+        {
+          "name": "gamble",
+          "weight": 0.0123499666647
+        },
+        {
+          "name": "sugar",
+          "weight": 0.00938321720668
+        },
+        {
+          "name": "pancake",
+          "weight": 0.00837064816512
+        },
+        {
+          "name": "court",
+          "weight": 0.00784098084814
+        },
+        {
+          "name": "gross",
+          "weight": 0.00748647096305
+        },
+        {
+          "name": "undercooked",
+          "weight": 0.00687837447365
+        },
+        {
+          "name": "banana",
+          "weight": 0.00671484830106
+        },
+        {
+          "name": "dimsum",
+          "weight": 0.00622431743422
+        },
+        {
+          "name": "breakfast",
+          "weight": 0.00604935853336
+        },
+        {
+          "name": "cupcakes",
+          "weight": 0.00581027436281
+        },
+        {
+          "name": "flavorless",
+          "weight": 0.00575038634153
+        }
+      ]
+    },
+    {
+      "name": "Topic 28",
+      "children": [
+        {
+          "name": "chicago",
+          "weight": 0.0348897248595
+        },
+        {
+          "name": "acknowledge",
+          "weight": 0.0242332556126
+        },
+        {
+          "name": "season",
+          "weight": 0.0233719254456
+        },
+        {
+          "name": "inexpensive",
+          "weight": 0.0232907621908
+        },
+        {
+          "name": "apology",
+          "weight": 0.0224103743713
+        },
+        {
+          "name": "beats",
+          "weight": 0.0218381803767
+        },
+        {
+          "name": "lackluster",
+          "weight": 0.0213650827424
+        },
+        {
+          "name": "gives",
+          "weight": 0.0185673579739
+        },
+        {
+          "name": "box",
+          "weight": 0.0176771018242
+        },
+        {
+          "name": "29",
+          "weight": 0.017510166405
+        },
+        {
+          "name": "cafeteria",
+          "weight": 0.0172011447409
+        },
+        {
+          "name": "towers",
+          "weight": 0.0162335959169
+        },
+        {
+          "name": "gourmet",
+          "weight": 0.016054212026
+        },
+        {
+          "name": "freezer",
+          "weight": 0.016040287325
+        },
+        {
+          "name": "excuse",
+          "weight": 0.016020865618
+        }
+      ]
+    },
+    {
+      "name": "Topic 29",
+      "children": [
+        {
+          "name": "wild",
+          "weight": 0.0343907301654
+        },
+        {
+          "name": "consistent",
+          "weight": 0.0179120346916
+        },
+        {
+          "name": "gospel",
+          "weight": 0.0175643025068
+        },
+        {
+          "name": "luxury",
+          "weight": 0.0102571081931
+        },
+        {
+          "name": "lil",
+          "weight": 0.0102269308058
+        },
+        {
+          "name": "heads",
+          "weight": 0.01005458201
+        },
+        {
+          "name": "spread",
+          "weight": 0.00993430591999
+        },
+        {
+          "name": "focaccia",
+          "weight": 0.00963331029263
+        },
+        {
+          "name": "wide",
+          "weight": 0.00865442018122
+        },
+        {
+          "name": "scary",
+          "weight": 0.00804119400955
+        },
+        {
+          "name": "host",
+          "weight": 0.00799593157071
+        },
+        {
+          "name": "burn",
+          "weight": 0.0077759614311
+        },
+        {
+          "name": "computer",
+          "weight": 0.00760418124616
+        },
+        {
+          "name": "state",
+          "weight": 0.00715830456072
+        },
+        {
+          "name": "miserable",
+          "weight": 0.00711874553777
+        }
+      ]
+    },
+    {
+      "name": "Topic 30",
+      "children": [
+        {
+          "name": "good",
+          "weight": 0.0083501306169
+        },
+        {
+          "name": "burger",
+          "weight": 0.00802396252599
+        },
+        {
+          "name": "like",
+          "weight": 0.00756756024442
+        },
+        {
+          "name": "fries",
+          "weight": 0.00669484790051
+        },
+        {
+          "name": "just",
+          "weight": 0.00656590061566
+        },
+        {
+          "name": "place",
+          "weight": 0.00624677003856
+        },
+        {
+          "name": "wings",
+          "weight": 0.00608761922691
+        },
+        {
+          "name": "bar",
+          "weight": 0.00587395819938
+        },
+        {
+          "name": "chicken",
+          "weight": 0.0053263515005
+        },
+        {
+          "name": "really",
+          "weight": 0.00527824542974
+        },
+        {
+          "name": "ordered",
+          "weight": 0.00505848487091
+        },
+        {
+          "name": "cheese",
+          "weight": 0.00486874999321
+        },
+        {
+          "name": "time",
+          "weight": 0.00448296335197
+        },
+        {
+          "name": "great",
+          "weight": 0.00444294235147
+        },
+        {
+          "name": "sauce",
+          "weight": 0.00424873931076
+        }
+      ]
+    },
+    {
+      "name": "Topic 31",
+      "children": [
+        {
+          "name": "place",
+          "weight": 0.00873800536267
+        },
+        {
+          "name": "coffee",
+          "weight": 0.00871354425112
+        },
+        {
+          "name": "counter",
+          "weight": 0.00817615369552
+        },
+        {
+          "name": "good",
+          "weight": 0.00721847716384
+        },
+        {
+          "name": "hotel",
+          "weight": 0.00649583242625
+        },
+        {
+          "name": "great",
+          "weight": 0.0064052939064
+        },
+        {
+          "name": "like",
+          "weight": 0.00613528313674
+        },
+        {
+          "name": "breakfast",
+          "weight": 0.00562501403568
+        },
+        {
+          "name": "shop",
+          "weight": 0.00530285468687
+        },
+        {
+          "name": "nice",
+          "weight": 0.00510805975061
+        },
+        {
+          "name": "sum",
+          "weight": 0.00496666965487
+        },
+        {
+          "name": "really",
+          "weight": 0.00472852498773
+        },
+        {
+          "name": "just",
+          "weight": 0.00469150155581
+        },
+        {
+          "name": "service",
+          "weight": 0.0045269640851
+        },
+        {
+          "name": "room",
+          "weight": 0.00450479748779
+        }
+      ]
+    },
+    {
+      "name": "Topic 32",
+      "children": [
+        {
+          "name": "resort",
+          "weight": 0.0365757391445
+        },
+        {
+          "name": "moon",
+          "weight": 0.0311127966689
+        },
+        {
+          "name": "venue",
+          "weight": 0.0309515675555
+        },
+        {
+          "name": "store",
+          "weight": 0.0258969872148
+        },
+        {
+          "name": "didnt",
+          "weight": 0.0251684879501
+        },
+        {
+          "name": "sucked",
+          "weight": 0.0232829317695
+        },
+        {
+          "name": "carts",
+          "weight": 0.0229616983531
+        },
+        {
+          "name": "ive",
+          "weight": 0.0223405419938
+        },
+        {
+          "name": "machine",
+          "weight": 0.0212174136783
+        },
+        {
+          "name": "pitchers",
+          "weight": 0.0200276238279
+        },
+        {
+          "name": "hefe",
+          "weight": 0.0175841892557
+        },
+        {
+          "name": "brats",
+          "weight": 0.0147480854051
+        },
+        {
+          "name": "thats",
+          "weight": 0.0127451768088
+        },
+        {
+          "name": "venues",
+          "weight": 0.012092977718
+        },
+        {
+          "name": "casino",
+          "weight": 0.0118436698092
+        }
+      ]
+    },
+    {
+      "name": "Topic 33",
+      "children": [
+        {
+          "name": "browns",
+          "weight": 0.0467372784562
+        },
+        {
+          "name": "sporting",
+          "weight": 0.0426870668902
+        },
+        {
+          "name": "crepes",
+          "weight": 0.0418684427268
+        },
+        {
+          "name": "tho",
+          "weight": 0.0208738844502
+        },
+        {
+          "name": "wear",
+          "weight": 0.0208029954668
+        },
+        {
+          "name": "3am",
+          "weight": 0.0174706273715
+        },
+        {
+          "name": "crew",
+          "weight": 0.0163783458591
+        },
+        {
+          "name": "horse",
+          "weight": 0.0159207224548
+        },
+        {
+          "name": "id",
+          "weight": 0.0157615764833
+        },
+        {
+          "name": "mango",
+          "weight": 0.0155762495291
+        },
+        {
+          "name": "hilton",
+          "weight": 0.0108913568435
+        },
+        {
+          "name": "drenched",
+          "weight": 0.00951572979959
+        },
+        {
+          "name": "grand",
+          "weight": 0.00937505999065
+        },
+        {
+          "name": "captain",
+          "weight": 0.00929304283264
+        },
+        {
+          "name": "latin",
+          "weight": 0.00873771446031
+        }
+      ]
+    },
+    {
+      "name": "Topic 34",
+      "children": [
+        {
+          "name": "mahi",
+          "weight": 0.0354280977652
+        },
+        {
+          "name": "sick",
+          "weight": 0.0237904842361
+        },
+        {
+          "name": "sleeping",
+          "weight": 0.0204009117435
+        },
+        {
+          "name": "remodeled",
+          "weight": 0.0183121008416
+        },
+        {
+          "name": "blackened",
+          "weight": 0.0163325743291
+        },
+        {
+          "name": "del",
+          "weight": 0.0162859582483
+        },
+        {
+          "name": "southwest",
+          "weight": 0.0137654721748
+        },
+        {
+          "name": "basic",
+          "weight": 0.0134053469609
+        },
+        {
+          "name": "paint",
+          "weight": 0.0127758773345
+        },
+        {
+          "name": "runny",
+          "weight": 0.0123289443183
+        },
+        {
+          "name": "flatbread",
+          "weight": 0.0119698574964
+        },
+        {
+          "name": "tostada",
+          "weight": 0.0112206216484
+        },
+        {
+          "name": "dbacks",
+          "weight": 0.0109924247296
+        },
+        {
+          "name": "pathetic",
+          "weight": 0.0109535727828
+        },
+        {
+          "name": "fills",
+          "weight": 0.0109236757206
+        }
+      ]
+    },
+    {
+      "name": "Topic 35",
+      "children": [
+        {
+          "name": "employees",
+          "weight": 0.0265245684895
+        },
+        {
+          "name": "waste",
+          "weight": 0.0240741120719
+        },
+        {
+          "name": "waiters",
+          "weight": 0.0238194239771
+        },
+        {
+          "name": "waitresses",
+          "weight": 0.0235917828489
+        },
+        {
+          "name": "sooooo",
+          "weight": 0.0207664977801
+        },
+        {
+          "name": "tequila",
+          "weight": 0.0186154154062
+        },
+        {
+          "name": "buck",
+          "weight": 0.015470223407
+        },
+        {
+          "name": "noise",
+          "weight": 0.0153975588494
+        },
+        {
+          "name": "staffed",
+          "weight": 0.0149293784419
+        },
+        {
+          "name": "california",
+          "weight": 0.0144313360122
+        },
+        {
+          "name": "clue",
+          "weight": 0.014409547473
+        },
+        {
+          "name": "importantly",
+          "weight": 0.0143562830069
+        },
+        {
+          "name": "desired",
+          "weight": 0.0140750070746
+        },
+        {
+          "name": "depressing",
+          "weight": 0.0127773462703
+        },
+        {
+          "name": "tired",
+          "weight": 0.012688844538
+        }
+      ]
+    },
+    {
+      "name": "Topic 36",
+      "children": [
+        {
+          "name": "hob",
+          "weight": 0.0584936191495
+        },
+        {
+          "name": "upgrade",
+          "weight": 0.0364343256269
+        },
+        {
+          "name": "wifi",
+          "weight": 0.0337268193566
+        },
+        {
+          "name": "jalapenos",
+          "weight": 0.0256227148905
+        },
+        {
+          "name": "ham",
+          "weight": 0.0215622651289
+        },
+        {
+          "name": "naked",
+          "weight": 0.0203877636796
+        },
+        {
+          "name": "shocked",
+          "weight": 0.0200433823497
+        },
+        {
+          "name": "snack",
+          "weight": 0.0187339408738
+        },
+        {
+          "name": "pillows",
+          "weight": 0.0174619827462
+        },
+        {
+          "name": "chains",
+          "weight": 0.0167174234829
+        },
+        {
+          "name": "tops",
+          "weight": 0.0162147296305
+        },
+        {
+          "name": "stale",
+          "weight": 0.0153425509894
+        },
+        {
+          "name": "ck",
+          "weight": 0.0139749610433
+        },
+        {
+          "name": "unbelievable",
+          "weight": 0.0137724458201
+        },
+        {
+          "name": "energy",
+          "weight": 0.0133684174716
+        }
+      ]
+    },
+    {
+      "name": "Topic 37",
+      "children": [
+        {
+          "name": "chow",
+          "weight": 0.0392370259388
+        },
+        {
+          "name": "domestic",
+          "weight": 0.0343139719536
+        },
+        {
+          "name": "alright",
+          "weight": 0.0275490943849
+        },
+        {
+          "name": "burnt",
+          "weight": 0.0273476543147
+        },
+        {
+          "name": "milk",
+          "weight": 0.0255904667638
+        },
+        {
+          "name": "spacious",
+          "weight": 0.0242438722091
+        },
+        {
+          "name": "popcorn",
+          "weight": 0.0169783669058
+        },
+        {
+          "name": "peanuts",
+          "weight": 0.0154371142754
+        },
+        {
+          "name": "ignore",
+          "weight": 0.015065590296
+        },
+        {
+          "name": "concerned",
+          "weight": 0.0145194682449
+        },
+        {
+          "name": "calls",
+          "weight": 0.014372485562
+        },
+        {
+          "name": "report",
+          "weight": 0.0142292399013
+        },
+        {
+          "name": "manage",
+          "weight": 0.0126610913382
+        },
+        {
+          "name": "positives",
+          "weight": 0.0121129142686
+        },
+        {
+          "name": "advise",
+          "weight": 0.0120656136517
+        }
+      ]
+    },
+    {
+      "name": "Topic 38",
+      "children": [
+        {
+          "name": "tv",
+          "weight": 0.0640228585484
+        },
+        {
+          "name": "screen",
+          "weight": 0.0234791719021
+        },
+        {
+          "name": "blast",
+          "weight": 0.0196218693206
+        },
+        {
+          "name": "regulars",
+          "weight": 0.0141651497503
+        },
+        {
+          "name": "starts",
+          "weight": 0.00922448677836
+        },
+        {
+          "name": "supposed",
+          "weight": 0.00907143255918
+        },
+        {
+          "name": "betting",
+          "weight": 0.00865267054357
+        },
+        {
+          "name": "tough",
+          "weight": 0.00818995808926
+        },
+        {
+          "name": "hamburgers",
+          "weight": 0.0081843038656
+        },
+        {
+          "name": "complaining",
+          "weight": 0.00812925342808
+        },
+        {
+          "name": "faster",
+          "weight": 0.00799666546028
+        },
+        {
+          "name": "stayed",
+          "weight": 0.00781662741614
+        },
+        {
+          "name": "cooks",
+          "weight": 0.00770499114087
+        },
+        {
+          "name": "wheel",
+          "weight": 0.00707472867892
+        },
+        {
+          "name": "tvs",
+          "weight": 0.00702892510857
+        }
+      ]
+    },
+    {
+      "name": "Topic 39",
+      "children": [
+        {
+          "name": "karaoke",
+          "weight": 0.0757439332633
+        },
+        {
+          "name": "highly",
+          "weight": 0.0418194911164
+        },
+        {
+          "name": "recommended",
+          "weight": 0.0248609757121
+        },
+        {
+          "name": "recommend",
+          "weight": 0.0234756325706
+        },
+        {
+          "name": "relax",
+          "weight": 0.0226353138719
+        },
+        {
+          "name": "jerk",
+          "weight": 0.0195287867513
+        },
+        {
+          "name": "courteous",
+          "weight": 0.0165846591145
+        },
+        {
+          "name": "hurry",
+          "weight": 0.0162747544465
+        },
+        {
+          "name": "banana",
+          "weight": 0.0146513646194
+        },
+        {
+          "name": "sage",
+          "weight": 0.0141102301795
+        },
+        {
+          "name": "minimal",
+          "weight": 0.0133065709303
+        },
+        {
+          "name": "chase",
+          "weight": 0.0127428606385
+        },
+        {
+          "name": "ladies",
+          "weight": 0.0109774451849
+        },
+        {
+          "name": "condition",
+          "weight": 0.00900746243083
+        },
+        {
+          "name": "nightlife",
+          "weight": 0.00890657050266
+        }
+      ]
+    },
+    {
+      "name": "Topic 40",
+      "children": [
+        {
+          "name": "fee",
+          "weight": 0.0120337678861
+        },
+        {
+          "name": "casinos",
+          "weight": 0.0101091602622
+        },
+        {
+          "name": "place",
+          "weight": 0.00872518468003
+        },
+        {
+          "name": "great",
+          "weight": 0.00849184386019
+        },
+        {
+          "name": "hotel",
+          "weight": 0.00760379558987
+        },
+        {
+          "name": "tuesday",
+          "weight": 0.00742835230948
+        },
+        {
+          "name": "groupon",
+          "weight": 0.00730591872939
+        },
+        {
+          "name": "good",
+          "weight": 0.00685928607814
+        },
+        {
+          "name": "breakfast",
+          "weight": 0.00638175172725
+        },
+        {
+          "name": "service",
+          "weight": 0.00618661782488
+        },
+        {
+          "name": "scramble",
+          "weight": 0.00525082711561
+        },
+        {
+          "name": "updated",
+          "weight": 0.00486500425534
+        },
+        {
+          "name": "clam",
+          "weight": 0.00454216783837
+        },
+        {
+          "name": "new",
+          "weight": 0.00447577158381
+        },
+        {
+          "name": "passed",
+          "weight": 0.00429355348495
+        }
+      ]
+    },
+    {
+      "name": "Topic 41",
+      "children": [
+        {
+          "name": "priced",
+          "weight": 0.0764773959854
+        },
+        {
+          "name": "reasonably",
+          "weight": 0.0762569285232
+        },
+        {
+          "name": "outstanding",
+          "weight": 0.0442658795504
+        },
+        {
+          "name": "travel",
+          "weight": 0.0388657849847
+        },
+        {
+          "name": "keeps",
+          "weight": 0.0351659935364
+        },
+        {
+          "name": "brew",
+          "weight": 0.0333393279668
+        },
+        {
+          "name": "loves",
+          "weight": 0.030677335789
+        },
+        {
+          "name": "television",
+          "weight": 0.029679597086
+        },
+        {
+          "name": "sandwiches",
+          "weight": 0.025808482553
+        },
+        {
+          "name": "amazing",
+          "weight": 0.0175551657755
+        },
+        {
+          "name": "melissa",
+          "weight": 0.0129878117954
+        },
+        {
+          "name": "absolute",
+          "weight": 0.00962749873429
+        },
+        {
+          "name": "public",
+          "weight": 0.00910708900307
+        },
+        {
+          "name": "forget",
+          "weight": 0.00905127528983
+        },
+        {
+          "name": "understatement",
+          "weight": 0.00840128213947
+        }
+      ]
+    },
+    {
+      "name": "Topic 42",
+      "children": [
+        {
+          "name": "sum",
+          "weight": 0.0996483835406
+        },
+        {
+          "name": "benedict",
+          "weight": 0.0367410210586
+        },
+        {
+          "name": "velvet",
+          "weight": 0.0271769565523
+        },
+        {
+          "name": "pancakes",
+          "weight": 0.0268705554848
+        },
+        {
+          "name": "crab",
+          "weight": 0.015684379001
+        },
+        {
+          "name": "outfits",
+          "weight": 0.0154550772978
+        },
+        {
+          "name": "pho",
+          "weight": 0.0151393599824
+        },
+        {
+          "name": "cheapest",
+          "weight": 0.013677796884
+        },
+        {
+          "name": "eggs",
+          "weight": 0.0118736106963
+        },
+        {
+          "name": "shucks",
+          "weight": 0.0115375502329
+        },
+        {
+          "name": "preferred",
+          "weight": 0.00952149255221
+        },
+        {
+          "name": "diners",
+          "weight": 0.00889308045448
+        },
+        {
+          "name": "husbands",
+          "weight": 0.00886738445029
+        },
+        {
+          "name": "hire",
+          "weight": 0.00849221056922
+        },
+        {
+          "name": "leather",
+          "weight": 0.00833075818066
+        }
+      ]
+    },
+    {
+      "name": "Topic 43",
+      "children": [
+        {
+          "name": "rooms",
+          "weight": 0.120950897465
+        },
+        {
+          "name": "min",
+          "weight": 0.025838580907
+        },
+        {
+          "name": "tasteless",
+          "weight": 0.0176142869188
+        },
+        {
+          "name": "crust",
+          "weight": 0.0144705008116
+        },
+        {
+          "name": "lazy",
+          "weight": 0.0125426720354
+        },
+        {
+          "name": "vinegar",
+          "weight": 0.0119808246755
+        },
+        {
+          "name": "crunch",
+          "weight": 0.0113977972466
+        },
+        {
+          "name": "salt",
+          "weight": 0.0106641899614
+        },
+        {
+          "name": "hood",
+          "weight": 0.00980244341975
+        },
+        {
+          "name": "cornbread",
+          "weight": 0.0097435484477
+        },
+        {
+          "name": "200",
+          "weight": 0.00896981917655
+        },
+        {
+          "name": "lacks",
+          "weight": 0.00859875260904
+        },
+        {
+          "name": "chewy",
+          "weight": 0.0084673278112
+        },
+        {
+          "name": "drop",
+          "weight": 0.00832322385159
+        },
+        {
+          "name": "neighbors",
+          "weight": 0.00830785747687
+        }
+      ]
+    },
+    {
+      "name": "Topic 44",
+      "children": [
+        {
+          "name": "kids",
+          "weight": 0.0101612600411
+        },
+        {
+          "name": "toppings",
+          "weight": 0.008458666929
+        },
+        {
+          "name": "save",
+          "weight": 0.00801456611537
+        },
+        {
+          "name": "zing",
+          "weight": 0.00770237605469
+        },
+        {
+          "name": "pizza",
+          "weight": 0.00733425321031
+        },
+        {
+          "name": "mistake",
+          "weight": 0.0066032703331
+        },
+        {
+          "name": "fired",
+          "weight": 0.00652945070471
+        },
+        {
+          "name": "july",
+          "weight": 0.00563375915227
+        },
+        {
+          "name": "jukebox",
+          "weight": 0.00515863845122
+        },
+        {
+          "name": "place",
+          "weight": 0.00504624319638
+        },
+        {
+          "name": "good",
+          "weight": 0.00492972131124
+        },
+        {
+          "name": "ownership",
+          "weight": 0.00468121219158
+        },
+        {
+          "name": "shouldn",
+          "weight": 0.00459088487087
+        },
+        {
+          "name": "amber",
+          "weight": 0.00440216290989
+        },
+        {
+          "name": "bally",
+          "weight": 0.00436202462192
+        }
+      ]
+    },
+    {
+      "name": "Topic 45",
+      "children": [
+        {
+          "name": "blues",
+          "weight": 0.0642185450362
+        },
+        {
+          "name": "suite",
+          "weight": 0.0356791168773
+        },
+        {
+          "name": "vip",
+          "weight": 0.0255104849421
+        },
+        {
+          "name": "concerts",
+          "weight": 0.022374977603
+        },
+        {
+          "name": "tee",
+          "weight": 0.0178689282739
+        },
+        {
+          "name": "truck",
+          "weight": 0.0170954953845
+        },
+        {
+          "name": "lame",
+          "weight": 0.0150200912185
+        },
+        {
+          "name": "eh",
+          "weight": 0.0149386908971
+        },
+        {
+          "name": "nascar",
+          "weight": 0.0144442305083
+        },
+        {
+          "name": "golden",
+          "weight": 0.0137162321686
+        },
+        {
+          "name": "stella",
+          "weight": 0.0130057409826
+        },
+        {
+          "name": "du",
+          "weight": 0.012061252903
+        },
+        {
+          "name": "catching",
+          "weight": 0.0111828020136
+        },
+        {
+          "name": "factor",
+          "weight": 0.0111071089314
+        },
+        {
+          "name": "valet",
+          "weight": 0.0108812455978
+        }
+      ]
+    },
+    {
+      "name": "Topic 46",
+      "children": [
+        {
+          "name": "margaritas",
+          "weight": 0.0514701978957
+        },
+        {
+          "name": "dont",
+          "weight": 0.0287417401277
+        },
+        {
+          "name": "cheesesteak",
+          "weight": 0.0197612064307
+        },
+        {
+          "name": "multiple",
+          "weight": 0.0173122545393
+        },
+        {
+          "name": "ill",
+          "weight": 0.0165265530988
+        },
+        {
+          "name": "prompt",
+          "weight": 0.0147870128076
+        },
+        {
+          "name": "unfriendly",
+          "weight": 0.0145879353441
+        },
+        {
+          "name": "ho",
+          "weight": 0.0126602299534
+        },
+        {
+          "name": "hurt",
+          "weight": 0.0123763060564
+        },
+        {
+          "name": "pride",
+          "weight": 0.0116733290323
+        },
+        {
+          "name": "burritos",
+          "weight": 0.0113817181529
+        },
+        {
+          "name": "specifically",
+          "weight": 0.0102809301218
+        },
+        {
+          "name": "pace",
+          "weight": 0.0100897382058
+        },
+        {
+          "name": "theme",
+          "weight": 0.00904042640229
+        },
+        {
+          "name": "destination",
+          "weight": 0.00899572706996
+        }
+      ]
+    },
+    {
+      "name": "Topic 47",
+      "children": [
+        {
+          "name": "challenge",
+          "weight": 0.0234675724785
+        },
+        {
+          "name": "sheets",
+          "weight": 0.0226067480025
+        },
+        {
+          "name": "flamingo",
+          "weight": 0.0210482386032
+        },
+        {
+          "name": "timely",
+          "weight": 0.0204969095634
+        },
+        {
+          "name": "manner",
+          "weight": 0.0185482835735
+        },
+        {
+          "name": "noisy",
+          "weight": 0.0184825183617
+        },
+        {
+          "name": "booking",
+          "weight": 0.0172438458698
+        },
+        {
+          "name": "teams",
+          "weight": 0.0167374290128
+        },
+        {
+          "name": "pressed",
+          "weight": 0.0159501083042
+        },
+        {
+          "name": "words",
+          "weight": 0.015675212147
+        },
+        {
+          "name": "ohio",
+          "weight": 0.014112082676
+        },
+        {
+          "name": "definite",
+          "weight": 0.0140317262462
+        },
+        {
+          "name": "30am",
+          "weight": 0.0137279065475
+        },
+        {
+          "name": "fair",
+          "weight": 0.0130341053071
+        },
+        {
+          "name": "ride",
+          "weight": 0.012891373198
+        }
+      ]
+    },
+    {
+      "name": "Topic 48",
+      "children": [
+        {
+          "name": "screens",
+          "weight": 0.0862568433261
+        },
+        {
+          "name": "legs",
+          "weight": 0.0343994642583
+        },
+        {
+          "name": "neighborhood",
+          "weight": 0.0332840727453
+        },
+        {
+          "name": "unit",
+          "weight": 0.0254092252218
+        },
+        {
+          "name": "meh",
+          "weight": 0.0217954750316
+        },
+        {
+          "name": "paris",
+          "weight": 0.0206503883757
+        },
+        {
+          "name": "comedy",
+          "weight": 0.0200005179225
+        },
+        {
+          "name": "smells",
+          "weight": 0.0195786811835
+        },
+        {
+          "name": "adobo",
+          "weight": 0.0193762581977
+        },
+        {
+          "name": "staying",
+          "weight": 0.0188017764985
+        },
+        {
+          "name": "definately",
+          "weight": 0.0187204304988
+        },
+        {
+          "name": "compare",
+          "weight": 0.0177999203221
+        },
+        {
+          "name": "tv",
+          "weight": 0.0151125366268
+        },
+        {
+          "name": "filet",
+          "weight": 0.0122928404799
+        },
+        {
+          "name": "hotel",
+          "weight": 0.012112312972
+        }
+      ]
+    },
+    {
+      "name": "Topic 49",
+      "children": [
+        {
+          "name": "olives",
+          "weight": 0.0719056327746
+        },
+        {
+          "name": "period",
+          "weight": 0.0314411065743
+        },
+        {
+          "name": "success",
+          "weight": 0.0197921426303
+        },
+        {
+          "name": "gifts",
+          "weight": 0.0170454837172
+        },
+        {
+          "name": "feta",
+          "weight": 0.0145818136281
+        },
+        {
+          "name": "hummus",
+          "weight": 0.0145024448968
+        },
+        {
+          "name": "embarrassed",
+          "weight": 0.0144334330988
+        },
+        {
+          "name": "wandered",
+          "weight": 0.0138109146618
+        },
+        {
+          "name": "tattoo",
+          "weight": 0.013669119385
+        },
+        {
+          "name": "mmm",
+          "weight": 0.0131120848896
+        },
+        {
+          "name": "understood",
+          "weight": 0.0125437535736
+        },
+        {
+          "name": "eclectic",
+          "weight": 0.0122190590852
+        },
+        {
+          "name": "frisco",
+          "weight": 0.0114285046303
+        },
+        {
+          "name": "servings",
+          "weight": 0.0111914328675
+        },
+        {
+          "name": "dozens",
+          "weight": 0.0108687636343
+        }
+      ]
+    },
+    {
+      "name": "Topic 50",
+      "children": [
+        {
+          "name": "mary",
+          "weight": 0.0632115909916
+        },
+        {
+          "name": "bloody",
+          "weight": 0.0623951109773
+        },
+        {
+          "name": "def",
+          "weight": 0.0366860712618
+        },
+        {
+          "name": "dj",
+          "weight": 0.0327471897713
+        },
+        {
+          "name": "upgraded",
+          "weight": 0.0294100175872
+        },
+        {
+          "name": "channel",
+          "weight": 0.0215585686857
+        },
+        {
+          "name": "bomb",
+          "weight": 0.0202589556633
+        },
+        {
+          "name": "incredible",
+          "weight": 0.0185883131751
+        },
+        {
+          "name": "creepy",
+          "weight": 0.0155227361675
+        },
+        {
+          "name": "kegs",
+          "weight": 0.0150979714598
+        },
+        {
+          "name": "trashy",
+          "weight": 0.0141110003762
+        },
+        {
+          "name": "goodies",
+          "weight": 0.0129134926601
+        },
+        {
+          "name": "eager",
+          "weight": 0.0128955455956
+        },
+        {
+          "name": "gas",
+          "weight": 0.0124911993734
+        },
+        {
+          "name": "madison",
+          "weight": 0.0114866353717
+        }
+      ]
+    },
+    {
+      "name": "Topic 51",
+      "children": [
+        {
+          "name": "7pm",
+          "weight": 0.0440366388131
+        },
+        {
+          "name": "facility",
+          "weight": 0.0295934308954
+        },
+        {
+          "name": "bear",
+          "weight": 0.028579180597
+        },
+        {
+          "name": "dubs",
+          "weight": 0.0255001466999
+        },
+        {
+          "name": "premium",
+          "weight": 0.0251180910674
+        },
+        {
+          "name": "specific",
+          "weight": 0.024097829844
+        },
+        {
+          "name": "80",
+          "weight": 0.0238636327302
+        },
+        {
+          "name": "forgotten",
+          "weight": 0.0171067512701
+        },
+        {
+          "name": "latte",
+          "weight": 0.0167265225025
+        },
+        {
+          "name": "sets",
+          "weight": 0.0160785388286
+        },
+        {
+          "name": "applebees",
+          "weight": 0.0160609191407
+        },
+        {
+          "name": "til",
+          "weight": 0.015976302184
+        },
+        {
+          "name": "frustrated",
+          "weight": 0.0152365537366
+        },
+        {
+          "name": "fighting",
+          "weight": 0.0146154940104
+        },
+        {
+          "name": "attract",
+          "weight": 0.0133706624134
+        }
+      ]
+    },
+    {
+      "name": "Topic 52",
+      "children": [
+        {
+          "name": "rooms",
+          "weight": 0.0271962072161
+        },
+        {
+          "name": "hype",
+          "weight": 0.0211875225612
+        },
+        {
+          "name": "entertaining",
+          "weight": 0.0210585116789
+        },
+        {
+          "name": "microwave",
+          "weight": 0.0175623952064
+        },
+        {
+          "name": "discount",
+          "weight": 0.0175482452376
+        },
+        {
+          "name": "1st",
+          "weight": 0.0175219886118
+        },
+        {
+          "name": "casino",
+          "weight": 0.0165401811714
+        },
+        {
+          "name": "2nd",
+          "weight": 0.0157889996418
+        },
+        {
+          "name": "killer",
+          "weight": 0.0148719179543
+        },
+        {
+          "name": "awful",
+          "weight": 0.014177418247
+        },
+        {
+          "name": "inconsistent",
+          "weight": 0.0139860363157
+        },
+        {
+          "name": "turns",
+          "weight": 0.013665054934
+        },
+        {
+          "name": "attended",
+          "weight": 0.013636296397
+        },
+        {
+          "name": "guava",
+          "weight": 0.0123997229364
+        },
+        {
+          "name": "regularly",
+          "weight": 0.0118418128745
+        }
+      ]
+    },
+    {
+      "name": "Topic 53",
+      "children": [
+        {
+          "name": "players",
+          "weight": 0.0383304135827
+        },
+        {
+          "name": "clubs",
+          "weight": 0.0286166009
+        },
+        {
+          "name": "southern",
+          "weight": 0.0277258171891
+        },
+        {
+          "name": "generic",
+          "weight": 0.0273749946099
+        },
+        {
+          "name": "70",
+          "weight": 0.0257663382427
+        },
+        {
+          "name": "60",
+          "weight": 0.0238128052672
+        },
+        {
+          "name": "changing",
+          "weight": 0.0212184145058
+        },
+        {
+          "name": "soooo",
+          "weight": 0.0199862732818
+        },
+        {
+          "name": "occasion",
+          "weight": 0.0187523868757
+        },
+        {
+          "name": "knock",
+          "weight": 0.0156840239654
+        },
+        {
+          "name": "goose",
+          "weight": 0.0137411608432
+        },
+        {
+          "name": "hrs",
+          "weight": 0.013195841307
+        },
+        {
+          "name": "laid",
+          "weight": 0.0123382265191
+        },
+        {
+          "name": "fed",
+          "weight": 0.0118766137366
+        },
+        {
+          "name": "runner",
+          "weight": 0.0117422032397
+        }
+      ]
+    },
+    {
+      "name": "Topic 54",
+      "children": [
+        {
+          "name": "draft",
+          "weight": 0.0102244864249
+        },
+        {
+          "name": "olive",
+          "weight": 0.00942130425093
+        },
+        {
+          "name": "trivia",
+          "weight": 0.00891947953218
+        },
+        {
+          "name": "gambling",
+          "weight": 0.00790955869995
+        },
+        {
+          "name": "good",
+          "weight": 0.006103778614
+        },
+        {
+          "name": "mozzarella",
+          "weight": 0.00578977510237
+        },
+        {
+          "name": "great",
+          "weight": 0.00562795932862
+        },
+        {
+          "name": "place",
+          "weight": 0.00538144818914
+        },
+        {
+          "name": "oil",
+          "weight": 0.00503764824296
+        },
+        {
+          "name": "shrimp",
+          "weight": 0.00491453703403
+        },
+        {
+          "name": "nice",
+          "weight": 0.00464985972356
+        },
+        {
+          "name": "bed",
+          "weight": 0.00448845552452
+        },
+        {
+          "name": "like",
+          "weight": 0.00434265879308
+        },
+        {
+          "name": "cheese",
+          "weight": 0.00422878499626
+        },
+        {
+          "name": "bar",
+          "weight": 0.00416741673591
+        }
+      ]
+    },
+    {
+      "name": "Topic 55",
+      "children": [
+        {
+          "name": "place",
+          "weight": 0.00757861075038
+        },
+        {
+          "name": "good",
+          "weight": 0.00711652873447
+        },
+        {
+          "name": "like",
+          "weight": 0.00634401094028
+        },
+        {
+          "name": "just",
+          "weight": 0.00620264266307
+        },
+        {
+          "name": "time",
+          "weight": 0.00590923476054
+        },
+        {
+          "name": "really",
+          "weight": 0.00553894841517
+        },
+        {
+          "name": "great",
+          "weight": 0.00548156094509
+        },
+        {
+          "name": "chicken",
+          "weight": 0.00533780155845
+        },
+        {
+          "name": "stayed",
+          "weight": 0.00498502401649
+        },
+        {
+          "name": "ve",
+          "weight": 0.00436116968925
+        },
+        {
+          "name": "vegas",
+          "weight": 0.0043531220366
+        },
+        {
+          "name": "service",
+          "weight": 0.00432325516303
+        },
+        {
+          "name": "got",
+          "weight": 0.00426661973869
+        },
+        {
+          "name": "bar",
+          "weight": 0.00417736649081
+        },
+        {
+          "name": "waffles",
+          "weight": 0.00395880271302
+        }
+      ]
+    },
+    {
+      "name": "Topic 56",
+      "children": [
+        {
+          "name": "great",
+          "weight": 0.0364136253039
+        },
+        {
+          "name": "good",
+          "weight": 0.0252794515949
+        },
+        {
+          "name": "service",
+          "weight": 0.0220282999299
+        },
+        {
+          "name": "breakfast",
+          "weight": 0.0185930023156
+        },
+        {
+          "name": "friendly",
+          "weight": 0.0175947016721
+        },
+        {
+          "name": "place",
+          "weight": 0.0173221272033
+        },
+        {
+          "name": "prices",
+          "weight": 0.0169531714835
+        },
+        {
+          "name": "staff",
+          "weight": 0.0168319094402
+        },
+        {
+          "name": "reasonable",
+          "weight": 0.0156931099783
+        },
+        {
+          "name": "price",
+          "weight": 0.0138507185796
+        },
+        {
+          "name": "excellent",
+          "weight": 0.0121221400531
+        },
+        {
+          "name": "vegas",
+          "weight": 0.0107702323527
+        },
+        {
+          "name": "portions",
+          "weight": 0.00973468978194
+        },
+        {
+          "name": "best",
+          "weight": 0.00970902089653
+        },
+        {
+          "name": "bay",
+          "weight": 0.00963819686955
+        }
+      ]
+    },
+    {
+      "name": "Topic 57",
+      "children": [
+        {
+          "name": "pool",
+          "weight": 0.128944356792
+        },
+        {
+          "name": "darts",
+          "weight": 0.0197285949134
+        },
+        {
+          "name": "chocolate",
+          "weight": 0.0195079875664
+        },
+        {
+          "name": "cookie",
+          "weight": 0.0193131622263
+        },
+        {
+          "name": "golden",
+          "weight": 0.0145635744794
+        },
+        {
+          "name": "ice",
+          "weight": 0.013489955465
+        },
+        {
+          "name": "greatest",
+          "weight": 0.013463995218
+        },
+        {
+          "name": "receipt",
+          "weight": 0.0122458991882
+        },
+        {
+          "name": "register",
+          "weight": 0.0117857052538
+        },
+        {
+          "name": "brownie",
+          "weight": 0.0107258312013
+        },
+        {
+          "name": "stayed",
+          "weight": 0.0101187990974
+        },
+        {
+          "name": "cooper",
+          "weight": 0.0100964985428
+        },
+        {
+          "name": "edge",
+          "weight": 0.00971872601446
+        },
+        {
+          "name": "vanilla",
+          "weight": 0.00962380525014
+        },
+        {
+          "name": "2014",
+          "weight": 0.00941137406436
+        }
+      ]
+    },
+    {
+      "name": "Topic 58",
+      "children": [
+        {
+          "name": "breakfast",
+          "weight": 0.0126271779559
+        },
+        {
+          "name": "good",
+          "weight": 0.0109512722001
+        },
+        {
+          "name": "biscuits",
+          "weight": 0.0100116085153
+        },
+        {
+          "name": "gravy",
+          "weight": 0.0099731488696
+        },
+        {
+          "name": "place",
+          "weight": 0.00965202671327
+        },
+        {
+          "name": "eggs",
+          "weight": 0.0093610643119
+        },
+        {
+          "name": "stromboli",
+          "weight": 0.00854284458827
+        },
+        {
+          "name": "great",
+          "weight": 0.0075352518126
+        },
+        {
+          "name": "service",
+          "weight": 0.00663564526643
+        },
+        {
+          "name": "bacon",
+          "weight": 0.00639985759955
+        },
+        {
+          "name": "like",
+          "weight": 0.00576140584071
+        },
+        {
+          "name": "sausage",
+          "weight": 0.00570172701226
+        },
+        {
+          "name": "tuesdays",
+          "weight": 0.00562177964186
+        },
+        {
+          "name": "really",
+          "weight": 0.00527068658765
+        },
+        {
+          "name": "just",
+          "weight": 0.00505119439064
+        }
+      ]
+    },
+    {
+      "name": "Topic 59",
+      "children": [
+        {
+          "name": "peaks",
+          "weight": 0.0179952494959
+        },
+        {
+          "name": "owners",
+          "weight": 0.0109688058533
+        },
+        {
+          "name": "owner",
+          "weight": 0.0106905854184
+        },
+        {
+          "name": "butt",
+          "weight": 0.010230637547
+        },
+        {
+          "name": "movie",
+          "weight": 0.00876075597927
+        },
+        {
+          "name": "outdated",
+          "weight": 0.00788894733905
+        },
+        {
+          "name": "grill",
+          "weight": 0.00670402574903
+        },
+        {
+          "name": "trash",
+          "weight": 0.00633888825421
+        },
+        {
+          "name": "place",
+          "weight": 0.00628305755874
+        },
+        {
+          "name": "shuffle",
+          "weight": 0.00624134462257
+        },
+        {
+          "name": "ha",
+          "weight": 0.00592880740279
+        },
+        {
+          "name": "business",
+          "weight": 0.00588907218379
+        },
+        {
+          "name": "effort",
+          "weight": 0.00576243931138
+        },
+        {
+          "name": "great",
+          "weight": 0.00571737295712
+        },
+        {
+          "name": "welcome",
+          "weight": 0.00560867697433
+        }
+      ]
+    },
+    {
+      "name": "Topic 60",
+      "children": [
+        {
+          "name": "waited",
+          "weight": 0.0100670586973
+        },
+        {
+          "name": "service",
+          "weight": 0.0089600736717
+        },
+        {
+          "name": "told",
+          "weight": 0.00872253166686
+        },
+        {
+          "name": "busy",
+          "weight": 0.00758075554792
+        },
+        {
+          "name": "minutes",
+          "weight": 0.00749245707549
+        },
+        {
+          "name": "customer",
+          "weight": 0.00720565990759
+        },
+        {
+          "name": "time",
+          "weight": 0.00685142792137
+        },
+        {
+          "name": "slow",
+          "weight": 0.00633473481512
+        },
+        {
+          "name": "place",
+          "weight": 0.00631994468731
+        },
+        {
+          "name": "table",
+          "weight": 0.00620367614364
+        },
+        {
+          "name": "hostess",
+          "weight": 0.00600208195857
+        },
+        {
+          "name": "bar",
+          "weight": 0.00598938053224
+        },
+        {
+          "name": "just",
+          "weight": 0.00593263076441
+        },
+        {
+          "name": "party",
+          "weight": 0.00591095315815
+        },
+        {
+          "name": "seated",
+          "weight": 0.00576034023811
+        }
+      ]
+    },
+    {
+      "name": "Topic 61",
+      "children": [
+        {
+          "name": "dive",
+          "weight": 0.0291350176208
+        },
+        {
+          "name": "twin",
+          "weight": 0.0255482590952
+        },
+        {
+          "name": "tour",
+          "weight": 0.0192822183067
+        },
+        {
+          "name": "baseball",
+          "weight": 0.0149661522811
+        },
+        {
+          "name": "numerous",
+          "weight": 0.0133315962225
+        },
+        {
+          "name": "social",
+          "weight": 0.0128040908157
+        },
+        {
+          "name": "issues",
+          "weight": 0.0117922946325
+        },
+        {
+          "name": "credit",
+          "weight": 0.0116108174311
+        },
+        {
+          "name": "drove",
+          "weight": 0.010985252958
+        },
+        {
+          "name": "themed",
+          "weight": 0.0102953330682
+        },
+        {
+          "name": "child",
+          "weight": 0.0102560123263
+        },
+        {
+          "name": "stage",
+          "weight": 0.0096941162695
+        },
+        {
+          "name": "alternative",
+          "weight": 0.00889372298853
+        },
+        {
+          "name": "network",
+          "weight": 0.00866979187953
+        },
+        {
+          "name": "previously",
+          "weight": 0.00851830542957
+        }
+      ]
+    },
+    {
+      "name": "Topic 62",
+      "children": [
+        {
+          "name": "nacho",
+          "weight": 0.0369865410726
+        },
+        {
+          "name": "toast",
+          "weight": 0.0311806363367
+        },
+        {
+          "name": "hash",
+          "weight": 0.0228270490685
+        },
+        {
+          "name": "french",
+          "weight": 0.019937996137
+        },
+        {
+          "name": "egg",
+          "weight": 0.0160630239124
+        },
+        {
+          "name": "beef",
+          "weight": 0.0153111294574
+        },
+        {
+          "name": "eggs",
+          "weight": 0.0138488462188
+        },
+        {
+          "name": "tenders",
+          "weight": 0.0118710701629
+        },
+        {
+          "name": "corned",
+          "weight": 0.0115974704643
+        },
+        {
+          "name": "edible",
+          "weight": 0.0114226612644
+        },
+        {
+          "name": "monaco",
+          "weight": 0.0100004023412
+        },
+        {
+          "name": "mimosa",
+          "weight": 0.00973527010002
+        },
+        {
+          "name": "wheat",
+          "weight": 0.00970020680015
+        },
+        {
+          "name": "loco",
+          "weight": 0.00900245158759
+        },
+        {
+          "name": "champagne",
+          "weight": 0.00775667202055
+        }
+      ]
+    },
+    {
+      "name": "Topic 63",
+      "children": [
+        {
+          "name": "riviera",
+          "weight": 0.0917373246797
+        },
+        {
+          "name": "native",
+          "weight": 0.0492541683034
+        },
+        {
+          "name": "exceptional",
+          "weight": 0.0228214234827
+        },
+        {
+          "name": "hole",
+          "weight": 0.0156460697382
+        },
+        {
+          "name": "defiantly",
+          "weight": 0.0146333653807
+        },
+        {
+          "name": "ruined",
+          "weight": 0.0145583126487
+        },
+        {
+          "name": "plaza",
+          "weight": 0.0138380984284
+        },
+        {
+          "name": "winner",
+          "weight": 0.0136590127732
+        },
+        {
+          "name": "wall",
+          "weight": 0.0134628802017
+        },
+        {
+          "name": "cheesecake",
+          "weight": 0.0129899928909
+        },
+        {
+          "name": "dined",
+          "weight": 0.0123799637409
+        },
+        {
+          "name": "tells",
+          "weight": 0.0122598166653
+        },
+        {
+          "name": "props",
+          "weight": 0.0116217747706
+        },
+        {
+          "name": "asks",
+          "weight": 0.0110539260218
+        },
+        {
+          "name": "domestics",
+          "weight": 0.0109276152818
+        }
+      ]
+    },
+    {
+      "name": "Topic 64",
+      "children": [
+        {
+          "name": "wing",
+          "weight": 0.0878189641463
+        },
+        {
+          "name": "tilted",
+          "weight": 0.0341466453853
+        },
+        {
+          "name": "carne",
+          "weight": 0.0242983997835
+        },
+        {
+          "name": "el",
+          "weight": 0.0225383346997
+        },
+        {
+          "name": "towels",
+          "weight": 0.0203220327112
+        },
+        {
+          "name": "nicer",
+          "weight": 0.0151318766106
+        },
+        {
+          "name": "breast",
+          "weight": 0.0149303860885
+        },
+        {
+          "name": "oatmeal",
+          "weight": 0.0141007952171
+        },
+        {
+          "name": "dos",
+          "weight": 0.0125449266225
+        },
+        {
+          "name": "buzz",
+          "weight": 0.0125390220363
+        },
+        {
+          "name": "services",
+          "weight": 0.0123036055098
+        },
+        {
+          "name": "los",
+          "weight": 0.0108827619403
+        },
+        {
+          "name": "oven",
+          "weight": 0.00965196409619
+        },
+        {
+          "name": "reviewed",
+          "weight": 0.00923111782534
+        },
+        {
+          "name": "upside",
+          "weight": 0.00898184181981
+        }
+      ]
+    },
+    {
+      "name": "Topic 65",
+      "children": [
+        {
+          "name": "rio",
+          "weight": 0.0488066678163
+        },
+        {
+          "name": "locations",
+          "weight": 0.0424060054295
+        },
+        {
+          "name": "distance",
+          "weight": 0.037541225223
+        },
+        {
+          "name": "smokey",
+          "weight": 0.0249538021349
+        },
+        {
+          "name": "teriyaki",
+          "weight": 0.0225074109893
+        },
+        {
+          "name": "luke",
+          "weight": 0.0211387019727
+        },
+        {
+          "name": "unprofessional",
+          "weight": 0.0191106611436
+        },
+        {
+          "name": "bus",
+          "weight": 0.0187412724992
+        },
+        {
+          "name": "mug",
+          "weight": 0.0182963657541
+        },
+        {
+          "name": "sunset",
+          "weight": 0.0168484831809
+        },
+        {
+          "name": "foodie",
+          "weight": 0.016075489439
+        },
+        {
+          "name": "safe",
+          "weight": 0.0138246129686
+        },
+        {
+          "name": "pocket",
+          "weight": 0.0137471361586
+        },
+        {
+          "name": "convinced",
+          "weight": 0.0136471215579
+        },
+        {
+          "name": "vintage",
+          "weight": 0.0136347230359
+        }
+      ]
+    },
+    {
+      "name": "Topic 66",
+      "children": [
+        {
+          "name": "circus",
+          "weight": 0.0482296929655
+        },
+        {
+          "name": "cheeseburger",
+          "weight": 0.0343381134659
+        },
+        {
+          "name": "buns",
+          "weight": 0.0336143952145
+        },
+        {
+          "name": "chile",
+          "weight": 0.0300609142967
+        },
+        {
+          "name": "receive",
+          "weight": 0.028246778443
+        },
+        {
+          "name": "refills",
+          "weight": 0.025655206778
+        },
+        {
+          "name": "mediocre",
+          "weight": 0.0233858349186
+        },
+        {
+          "name": "hockey",
+          "weight": 0.0228975536388
+        },
+        {
+          "name": "dingy",
+          "weight": 0.0198333000235
+        },
+        {
+          "name": "western",
+          "weight": 0.0186134062946
+        },
+        {
+          "name": "pool",
+          "weight": 0.0184903815329
+        },
+        {
+          "name": "organic",
+          "weight": 0.0182370993289
+        },
+        {
+          "name": "franchise",
+          "weight": 0.0175839449012
+        },
+        {
+          "name": "kill",
+          "weight": 0.0164828320534
+        },
+        {
+          "name": "requested",
+          "weight": 0.0149595045863
+        }
+      ]
+    },
+    {
+      "name": "Topic 67",
+      "children": [
+        {
+          "name": "orange",
+          "weight": 0.0382518382115
+        },
+        {
+          "name": "deals",
+          "weight": 0.0369365128133
+        },
+        {
+          "name": "margarita",
+          "weight": 0.0347441629182
+        },
+        {
+          "name": "conference",
+          "weight": 0.0340424869432
+        },
+        {
+          "name": "diner",
+          "weight": 0.0265497176442
+        },
+        {
+          "name": "juice",
+          "weight": 0.0219885199471
+        },
+        {
+          "name": "rachel",
+          "weight": 0.0160473798086
+        },
+        {
+          "name": "deserves",
+          "weight": 0.0153754908937
+        },
+        {
+          "name": "quesadillas",
+          "weight": 0.0147375076052
+        },
+        {
+          "name": "groups",
+          "weight": 0.01354697878
+        },
+        {
+          "name": "crave",
+          "weight": 0.0131696484707
+        },
+        {
+          "name": "nasty",
+          "weight": 0.0130318347926
+        },
+        {
+          "name": "smiling",
+          "weight": 0.0120283354006
+        },
+        {
+          "name": "mornings",
+          "weight": 0.0115359757141
+        },
+        {
+          "name": "crack",
+          "weight": 0.0113564087901
+        }
+      ]
+    },
+    {
+      "name": "Topic 68",
+      "children": [
+        {
+          "name": "products",
+          "weight": 0.0458939662993
+        },
+        {
+          "name": "24",
+          "weight": 0.0450937750609
+        },
+        {
+          "name": "thursdays",
+          "weight": 0.0336448289783
+        },
+        {
+          "name": "gelato",
+          "weight": 0.0269524452868
+        },
+        {
+          "name": "ac",
+          "weight": 0.0248033085544
+        },
+        {
+          "name": "hubby",
+          "weight": 0.0226912714564
+        },
+        {
+          "name": "market",
+          "weight": 0.0215754275388
+        },
+        {
+          "name": "father",
+          "weight": 0.019842920996
+        },
+        {
+          "name": "clock",
+          "weight": 0.0198395490127
+        },
+        {
+          "name": "bleu",
+          "weight": 0.0189764709279
+        },
+        {
+          "name": "lake",
+          "weight": 0.0182374373874
+        },
+        {
+          "name": "wednesdays",
+          "weight": 0.0179833118898
+        },
+        {
+          "name": "ultimate",
+          "weight": 0.0172337429714
+        },
+        {
+          "name": "yell",
+          "weight": 0.0152871442369
+        },
+        {
+          "name": "tag",
+          "weight": 0.0151972209423
+        }
+      ]
+    },
+    {
+      "name": "Topic 69",
+      "children": [
+        {
+          "name": "scenery",
+          "weight": 0.0399570145683
+        },
+        {
+          "name": "welcoming",
+          "weight": 0.0387832059845
+        },
+        {
+          "name": "healthy",
+          "weight": 0.0362019006398
+        },
+        {
+          "name": "package",
+          "weight": 0.0309121197986
+        },
+        {
+          "name": "chopped",
+          "weight": 0.0281161105248
+        },
+        {
+          "name": "spectacular",
+          "weight": 0.0211942032703
+        },
+        {
+          "name": "denver",
+          "weight": 0.0200041341283
+        },
+        {
+          "name": "thumbs",
+          "weight": 0.0188874305406
+        },
+        {
+          "name": "lover",
+          "weight": 0.017948344054
+        },
+        {
+          "name": "appetizing",
+          "weight": 0.0177912317471
+        },
+        {
+          "name": "careful",
+          "weight": 0.0177582340645
+        },
+        {
+          "name": "dine",
+          "weight": 0.0175228277647
+        },
+        {
+          "name": "sizzling",
+          "weight": 0.0173421748269
+        },
+        {
+          "name": "ingredients",
+          "weight": 0.016937846572
+        },
+        {
+          "name": "blows",
+          "weight": 0.0143945051045
+        }
+      ]
+    },
+    {
+      "name": "Topic 70",
+      "children": [
+        {
+          "name": "dance",
+          "weight": 0.0422427129682
+        },
+        {
+          "name": "midnight",
+          "weight": 0.0330616115477
+        },
+        {
+          "name": "gilbert",
+          "weight": 0.0245906106481
+        },
+        {
+          "name": "caesars",
+          "weight": 0.0224302761141
+        },
+        {
+          "name": "arcade",
+          "weight": 0.0182563745985
+        },
+        {
+          "name": "pool",
+          "weight": 0.0179173594731
+        },
+        {
+          "name": "ipa",
+          "weight": 0.0160971438968
+        },
+        {
+          "name": "east",
+          "weight": 0.0158932622002
+        },
+        {
+          "name": "coast",
+          "weight": 0.015767794351
+        },
+        {
+          "name": "silver",
+          "weight": 0.0126692043458
+        },
+        {
+          "name": "west",
+          "weight": 0.0125716781391
+        },
+        {
+          "name": "rowdy",
+          "weight": 0.0124630643501
+        },
+        {
+          "name": "mesa",
+          "weight": 0.0116360597989
+        },
+        {
+          "name": "al",
+          "weight": 0.0110223258628
+        },
+        {
+          "name": "argue",
+          "weight": 0.0104822632032
+        }
+      ]
+    },
+    {
+      "name": "Topic 71",
+      "children": [
+        {
+          "name": "westin",
+          "weight": 0.0759723003393
+        },
+        {
+          "name": "duck",
+          "weight": 0.0434694463558
+        },
+        {
+          "name": "pho",
+          "weight": 0.035199497978
+        },
+        {
+          "name": "olive",
+          "weight": 0.0258092484608
+        },
+        {
+          "name": "vietnamese",
+          "weight": 0.0184182182353
+        },
+        {
+          "name": "modern",
+          "weight": 0.0180156340395
+        },
+        {
+          "name": "oil",
+          "weight": 0.0169810281114
+        },
+        {
+          "name": "rolls",
+          "weight": 0.0163483095503
+        },
+        {
+          "name": "tai",
+          "weight": 0.0153215725515
+        },
+        {
+          "name": "grounds",
+          "weight": 0.0151534764228
+        },
+        {
+          "name": "chef",
+          "weight": 0.0139050824288
+        },
+        {
+          "name": "visitors",
+          "weight": 0.0114735792502
+        },
+        {
+          "name": "bones",
+          "weight": 0.0103310372335
+        },
+        {
+          "name": "egg",
+          "weight": 0.00999230904856
+        },
+        {
+          "name": "bath",
+          "weight": 0.00999223459715
+        }
+      ]
+    },
+    {
+      "name": "Topic 72",
+      "children": [
+        {
+          "name": "omelette",
+          "weight": 0.0527812178071
+        },
+        {
+          "name": "boss",
+          "weight": 0.0227446480847
+        },
+        {
+          "name": "changes",
+          "weight": 0.0209455107356
+        },
+        {
+          "name": "duke",
+          "weight": 0.0173192377904
+        },
+        {
+          "name": "chick",
+          "weight": 0.0168396180965
+        },
+        {
+          "name": "rates",
+          "weight": 0.0152798211099
+        },
+        {
+          "name": "pints",
+          "weight": 0.0151543760425
+        },
+        {
+          "name": "conveniently",
+          "weight": 0.0149167813936
+        },
+        {
+          "name": "endless",
+          "weight": 0.0129242915525
+        },
+        {
+          "name": "lives",
+          "weight": 0.0127920406314
+        },
+        {
+          "name": "biker",
+          "weight": 0.0123859753267
+        },
+        {
+          "name": "noon",
+          "weight": 0.0118341765127
+        },
+        {
+          "name": "micro",
+          "weight": 0.0117880613598
+        },
+        {
+          "name": "comp",
+          "weight": 0.0111510822294
+        },
+        {
+          "name": "continues",
+          "weight": 0.0110990841025
+        }
+      ]
+    },
+    {
+      "name": "Topic 73",
+      "children": [
+        {
+          "name": "desk",
+          "weight": 0.0496276416877
+        },
+        {
+          "name": "dog",
+          "weight": 0.0302263257209
+        },
+        {
+          "name": "joyful",
+          "weight": 0.0170376638588
+        },
+        {
+          "name": "consistently",
+          "weight": 0.0134151152748
+        },
+        {
+          "name": "bears",
+          "weight": 0.0130423761339
+        },
+        {
+          "name": "dump",
+          "weight": 0.0125243698695
+        },
+        {
+          "name": "ya",
+          "weight": 0.0105941714966
+        },
+        {
+          "name": "grease",
+          "weight": 0.0104234181174
+        },
+        {
+          "name": "watched",
+          "weight": 0.0093161271631
+        },
+        {
+          "name": "nom",
+          "weight": 0.00747082700692
+        },
+        {
+          "name": "inch",
+          "weight": 0.00689774866867
+        },
+        {
+          "name": "spare",
+          "weight": 0.0068603795777
+        },
+        {
+          "name": "playoff",
+          "weight": 0.00674614733127
+        },
+        {
+          "name": "playoffs",
+          "weight": 0.00644431815655
+        },
+        {
+          "name": "fully",
+          "weight": 0.00638436367452
+        }
+      ]
+    },
+    {
+      "name": "Topic 74",
+      "children": [
+        {
+          "name": "hooters",
+          "weight": 0.111685246991
+        },
+        {
+          "name": "juices",
+          "weight": 0.0246041209706
+        },
+        {
+          "name": "smoke",
+          "weight": 0.0209619496296
+        },
+        {
+          "name": "pineapple",
+          "weight": 0.0205923101485
+        },
+        {
+          "name": "win",
+          "weight": 0.0197944147354
+        },
+        {
+          "name": "blt",
+          "weight": 0.0189294119524
+        },
+        {
+          "name": "riv",
+          "weight": 0.0182672186907
+        },
+        {
+          "name": "fast",
+          "weight": 0.0166166150805
+        },
+        {
+          "name": "tongue",
+          "weight": 0.0151486195689
+        },
+        {
+          "name": "pricy",
+          "weight": 0.0151458412352
+        },
+        {
+          "name": "sink",
+          "weight": 0.0120120505158
+        },
+        {
+          "name": "separated",
+          "weight": 0.0117503015535
+        },
+        {
+          "name": "selections",
+          "weight": 0.0112694137189
+        },
+        {
+          "name": "slower",
+          "weight": 0.0107891877269
+        },
+        {
+          "name": "infused",
+          "weight": 0.0107789066292
+        }
+      ]
+    },
+    {
+      "name": "Topic 75",
+      "children": [
+        {
+          "name": "cleaning",
+          "weight": 0.0285442397862
+        },
+        {
+          "name": "gf",
+          "weight": 0.0264007124308
+        },
+        {
+          "name": "biscuit",
+          "weight": 0.0252341749907
+        },
+        {
+          "name": "meatballs",
+          "weight": 0.0249217819101
+        },
+        {
+          "name": "minimum",
+          "weight": 0.0234507171626
+        },
+        {
+          "name": "nicest",
+          "weight": 0.0205544166372
+        },
+        {
+          "name": "cleaned",
+          "weight": 0.0200841991726
+        },
+        {
+          "name": "bucket",
+          "weight": 0.0192076300127
+        },
+        {
+          "name": "30pm",
+          "weight": 0.0184033307785
+        },
+        {
+          "name": "cater",
+          "weight": 0.0157958128172
+        },
+        {
+          "name": "steakhouse",
+          "weight": 0.014085895294
+        },
+        {
+          "name": "sexy",
+          "weight": 0.0131864738109
+        },
+        {
+          "name": "passing",
+          "weight": 0.0131184917708
+        },
+        {
+          "name": "grown",
+          "weight": 0.0124997211262
+        },
+        {
+          "name": "blueberries",
+          "weight": 0.0109192136138
+        }
+      ]
+    },
+    {
+      "name": "Topic 76",
+      "children": [
+        {
+          "name": "shredded",
+          "weight": 0.0255238075513
+        },
+        {
+          "name": "palace",
+          "weight": 0.0250921804745
+        },
+        {
+          "name": "bruschetta",
+          "weight": 0.0211695968214
+        },
+        {
+          "name": "burgers",
+          "weight": 0.0195492373568
+        },
+        {
+          "name": "bean",
+          "weight": 0.0179971936148
+        },
+        {
+          "name": "lemonade",
+          "weight": 0.0135099660415
+        },
+        {
+          "name": "pre",
+          "weight": 0.0134123224032
+        },
+        {
+          "name": "rooms",
+          "weight": 0.0115317491659
+        },
+        {
+          "name": "recipe",
+          "weight": 0.0106680759879
+        },
+        {
+          "name": "sun",
+          "weight": 0.0105873131648
+        },
+        {
+          "name": "fruit",
+          "weight": 0.00969647553654
+        },
+        {
+          "name": "tall",
+          "weight": 0.009536220797
+        },
+        {
+          "name": "dried",
+          "weight": 0.00945028232617
+        },
+        {
+          "name": "almond",
+          "weight": 0.00928653783379
+        },
+        {
+          "name": "dip",
+          "weight": 0.0086460827768
+        }
+      ]
+    },
+    {
+      "name": "Topic 77",
+      "children": [
+        {
+          "name": "sliders",
+          "weight": 0.0241797172725
+        },
+        {
+          "name": "tuna",
+          "weight": 0.0123452155167
+        },
+        {
+          "name": "cent",
+          "weight": 0.0121255594731
+        },
+        {
+          "name": "sport",
+          "weight": 0.0118872691398
+        },
+        {
+          "name": "sports",
+          "weight": 0.0105084459682
+        },
+        {
+          "name": "ny",
+          "weight": 0.00986688394495
+        },
+        {
+          "name": "mayo",
+          "weight": 0.00985718984424
+        },
+        {
+          "name": "curly",
+          "weight": 0.00959558057571
+        },
+        {
+          "name": "tournament",
+          "weight": 0.00948327973685
+        },
+        {
+          "name": "garage",
+          "weight": 0.00885991072386
+        },
+        {
+          "name": "casino",
+          "weight": 0.00877547635257
+        },
+        {
+          "name": "ahi",
+          "weight": 0.00869975574221
+        },
+        {
+          "name": "balsamic",
+          "weight": 0.00820489057459
+        },
+        {
+          "name": "cents",
+          "weight": 0.00817439990362
+        },
+        {
+          "name": "lets",
+          "weight": 0.00778707694095
+        }
+      ]
+    },
+    {
+      "name": "Topic 78",
+      "children": [
+        {
+          "name": "sundays",
+          "weight": 0.0265107841469
+        },
+        {
+          "name": "site",
+          "weight": 0.026468738174
+        },
+        {
+          "name": "fianc",
+          "weight": 0.0185445023904
+        },
+        {
+          "name": "joints",
+          "weight": 0.0162621234792
+        },
+        {
+          "name": "appreciated",
+          "weight": 0.0159447147623
+        },
+        {
+          "name": "tan",
+          "weight": 0.0159237307571
+        },
+        {
+          "name": "lo",
+          "weight": 0.0147003042434
+        },
+        {
+          "name": "wet",
+          "weight": 0.0141913564668
+        },
+        {
+          "name": "hesitant",
+          "weight": 0.0137953254993
+        },
+        {
+          "name": "clay",
+          "weight": 0.0126610019398
+        },
+        {
+          "name": "nightmare",
+          "weight": 0.0125472481211
+        },
+        {
+          "name": "gm",
+          "weight": 0.0124850731926
+        },
+        {
+          "name": "stack",
+          "weight": 0.0122192563516
+        },
+        {
+          "name": "disaster",
+          "weight": 0.011611755
+        },
+        {
+          "name": "ends",
+          "weight": 0.0114113489387
+        }
+      ]
+    },
+    {
+      "name": "Topic 79",
+      "children": [
+        {
+          "name": "tavern",
+          "weight": 0.0665279888006
+        },
+        {
+          "name": "bagel",
+          "weight": 0.0497564352836
+        },
+        {
+          "name": "lobby",
+          "weight": 0.0481663898874
+        },
+        {
+          "name": "bagels",
+          "weight": 0.0411194193604
+        },
+        {
+          "name": "appears",
+          "weight": 0.0184275843261
+        },
+        {
+          "name": "triple",
+          "weight": 0.0128604153101
+        },
+        {
+          "name": "55",
+          "weight": 0.0122935354886
+        },
+        {
+          "name": "faces",
+          "weight": 0.010985206222
+        },
+        {
+          "name": "florida",
+          "weight": 0.0108671906
+        },
+        {
+          "name": "arizona",
+          "weight": 0.0104343731838
+        },
+        {
+          "name": "fluffy",
+          "weight": 0.0100605189703
+        },
+        {
+          "name": "wound",
+          "weight": 0.00992390685071
+        },
+        {
+          "name": "ounce",
+          "weight": 0.00982613098756
+        },
+        {
+          "name": "asiago",
+          "weight": 0.00974908451714
+        },
+        {
+          "name": "armadillo",
+          "weight": 0.00962829472129
+        }
+      ]
+    },
+    {
+      "name": "Topic 80",
+      "children": [
+        {
+          "name": "taco",
+          "weight": 0.0519323565621
+        },
+        {
+          "name": "32",
+          "weight": 0.0362843236712
+        },
+        {
+          "name": "habanero",
+          "weight": 0.0326394459846
+        },
+        {
+          "name": "muffins",
+          "weight": 0.0203857067391
+        },
+        {
+          "name": "smoothie",
+          "weight": 0.0202191110514
+        },
+        {
+          "name": "espresso",
+          "weight": 0.0193157344469
+        },
+        {
+          "name": "croissant",
+          "weight": 0.0179122170721
+        },
+        {
+          "name": "tortillas",
+          "weight": 0.0148245088584
+        },
+        {
+          "name": "country",
+          "weight": 0.0140566576484
+        },
+        {
+          "name": "caf",
+          "weight": 0.0139458491731
+        },
+        {
+          "name": "lovers",
+          "weight": 0.0138577441174
+        },
+        {
+          "name": "farm",
+          "weight": 0.0136801767425
+        },
+        {
+          "name": "receiving",
+          "weight": 0.0132363093156
+        },
+        {
+          "name": "reserve",
+          "weight": 0.0122468112178
+        },
+        {
+          "name": "warned",
+          "weight": 0.0108126421209
+        }
+      ]
+    },
+    {
+      "name": "Topic 81",
+      "children": [
+        {
+          "name": "spa",
+          "weight": 0.0366234245142
+        },
+        {
+          "name": "daddy",
+          "weight": 0.0357621947445
+        },
+        {
+          "name": "guacamole",
+          "weight": 0.0285524093292
+        },
+        {
+          "name": "com",
+          "weight": 0.0261842842675
+        },
+        {
+          "name": "coupon",
+          "weight": 0.0200899607703
+        },
+        {
+          "name": "matt",
+          "weight": 0.0183836702434
+        },
+        {
+          "name": "http",
+          "weight": 0.0175071389142
+        },
+        {
+          "name": "www",
+          "weight": 0.0162843303304
+        },
+        {
+          "name": "select",
+          "weight": 0.0133435790422
+        },
+        {
+          "name": "control",
+          "weight": 0.0108084878556
+        },
+        {
+          "name": "yelp",
+          "weight": 0.010366688613
+        },
+        {
+          "name": "ugh",
+          "weight": 0.00910313322359
+        },
+        {
+          "name": "biz_photos",
+          "weight": 0.00887073380947
+        },
+        {
+          "name": "gift",
+          "weight": 0.00840047486265
+        },
+        {
+          "name": "certificate",
+          "weight": 0.00836287065457
+        }
+      ]
+    },
+    {
+      "name": "Topic 82",
+      "children": [
+        {
+          "name": "omelet",
+          "weight": 0.0455880613972
+        },
+        {
+          "name": "waffle",
+          "weight": 0.0424221239065
+        },
+        {
+          "name": "syrup",
+          "weight": 0.0333670306716
+        },
+        {
+          "name": "fights",
+          "weight": 0.0322010495969
+        },
+        {
+          "name": "dogs",
+          "weight": 0.0241099138679
+        },
+        {
+          "name": "yorker",
+          "weight": 0.0202979757023
+        },
+        {
+          "name": "coupons",
+          "weight": 0.0136765781818
+        },
+        {
+          "name": "son",
+          "weight": 0.0124427226821
+        },
+        {
+          "name": "sin",
+          "weight": 0.00889989650153
+        },
+        {
+          "name": "27",
+          "weight": 0.00837818424691
+        },
+        {
+          "name": "respect",
+          "weight": 0.00807114335552
+        },
+        {
+          "name": "church",
+          "weight": 0.00774887828062
+        },
+        {
+          "name": "downhill",
+          "weight": 0.00653015192938
+        },
+        {
+          "name": "straw",
+          "weight": 0.00652524825976
+        },
+        {
+          "name": "treatment",
+          "weight": 0.0063583246484
+        }
+      ]
+    },
+    {
+      "name": "Topic 83",
+      "children": [
+        {
+          "name": "televisions",
+          "weight": 0.0459300523061
+        },
+        {
+          "name": "sierra",
+          "weight": 0.0395475831975
+        },
+        {
+          "name": "vegan",
+          "weight": 0.0335243119796
+        },
+        {
+          "name": "property",
+          "weight": 0.0315145092422
+        },
+        {
+          "name": "row",
+          "weight": 0.0267179357549
+        },
+        {
+          "name": "adults",
+          "weight": 0.0190257772977
+        },
+        {
+          "name": "efficient",
+          "weight": 0.017741388947
+        },
+        {
+          "name": "meatloaf",
+          "weight": 0.0174616108581
+        },
+        {
+          "name": "wtf",
+          "weight": 0.0163159352404
+        },
+        {
+          "name": "platinum",
+          "weight": 0.0158306658415
+        },
+        {
+          "name": "metal",
+          "weight": 0.0151992714017
+        },
+        {
+          "name": "combinations",
+          "weight": 0.0140297345018
+        },
+        {
+          "name": "tourist",
+          "weight": 0.0138064491076
+        },
+        {
+          "name": "woke",
+          "weight": 0.0121816102982
+        },
+        {
+          "name": "explaining",
+          "weight": 0.0115413390257
+        }
+      ]
+    },
+    {
+      "name": "Topic 84",
+      "children": [
+        {
+          "name": "good",
+          "weight": 0.00725987838468
+        },
+        {
+          "name": "pt",
+          "weight": 0.0065573968089
+        },
+        {
+          "name": "like",
+          "weight": 0.00570680057661
+        },
+        {
+          "name": "place",
+          "weight": 0.00567860169497
+        },
+        {
+          "name": "dim",
+          "weight": 0.00556821852568
+        },
+        {
+          "name": "cheese",
+          "weight": 0.00525283977695
+        },
+        {
+          "name": "great",
+          "weight": 0.00518538179103
+        },
+        {
+          "name": "really",
+          "weight": 0.0051632386423
+        },
+        {
+          "name": "fresh",
+          "weight": 0.00504073393656
+        },
+        {
+          "name": "just",
+          "weight": 0.00496797841169
+        },
+        {
+          "name": "asian",
+          "weight": 0.00457526385595
+        },
+        {
+          "name": "fish",
+          "weight": 0.00454821988509
+        },
+        {
+          "name": "garlic",
+          "weight": 0.00427231575629
+        },
+        {
+          "name": "chicken",
+          "weight": 0.00405525432048
+        },
+        {
+          "name": "dessert",
+          "weight": 0.00400177149722
+        }
+      ]
+    },
+    {
+      "name": "Topic 85",
+      "children": [
+        {
+          "name": "bar",
+          "weight": 0.0174468477143
+        },
+        {
+          "name": "games",
+          "weight": 0.0137281734228
+        },
+        {
+          "name": "game",
+          "weight": 0.0133253209258
+        },
+        {
+          "name": "place",
+          "weight": 0.0132330750686
+        },
+        {
+          "name": "great",
+          "weight": 0.0122022919229
+        },
+        {
+          "name": "wings",
+          "weight": 0.0116550311862
+        },
+        {
+          "name": "watch",
+          "weight": 0.0115613001395
+        },
+        {
+          "name": "football",
+          "weight": 0.00965365213918
+        },
+        {
+          "name": "good",
+          "weight": 0.00952609295715
+        },
+        {
+          "name": "beer",
+          "weight": 0.00862592038223
+        },
+        {
+          "name": "night",
+          "weight": 0.00784200451225
+        },
+        {
+          "name": "tvs",
+          "weight": 0.00756181640466
+        },
+        {
+          "name": "room",
+          "weight": 0.00748909930884
+        },
+        {
+          "name": "play",
+          "weight": 0.00664937949749
+        },
+        {
+          "name": "drinks",
+          "weight": 0.00659627623224
+        }
+      ]
+    },
+    {
+      "name": "Topic 86",
+      "children": [
+        {
+          "name": "lobster",
+          "weight": 0.0578600950309
+        },
+        {
+          "name": "45",
+          "weight": 0.0363854814134
+        },
+        {
+          "name": "oils",
+          "weight": 0.0330606065357
+        },
+        {
+          "name": "sleep",
+          "weight": 0.0291513111554
+        },
+        {
+          "name": "elevator",
+          "weight": 0.0216119334949
+        },
+        {
+          "name": "families",
+          "weight": 0.0183707191776
+        },
+        {
+          "name": "joke",
+          "weight": 0.0149174769927
+        },
+        {
+          "name": "continue",
+          "weight": 0.0149167788101
+        },
+        {
+          "name": "dressed",
+          "weight": 0.0135032792591
+        },
+        {
+          "name": "treasure",
+          "weight": 0.0127943365656
+        },
+        {
+          "name": "degrees",
+          "weight": 0.0127034386193
+        },
+        {
+          "name": "anytime",
+          "weight": 0.0115972492195
+        },
+        {
+          "name": "trendy",
+          "weight": 0.0113849806746
+        },
+        {
+          "name": "rewards",
+          "weight": 0.0110249047034
+        },
+        {
+          "name": "gordon",
+          "weight": 0.0106641078222
+        }
+      ]
+    },
+    {
+      "name": "Topic 87",
+      "children": [
+        {
+          "name": "airport",
+          "weight": 0.0861370131811
+        },
+        {
+          "name": "die",
+          "weight": 0.0258280327068
+        },
+        {
+          "name": "nope",
+          "weight": 0.0233002409564
+        },
+        {
+          "name": "vacation",
+          "weight": 0.0219984479071
+        },
+        {
+          "name": "taxi",
+          "weight": 0.0199778361599
+        },
+        {
+          "name": "downside",
+          "weight": 0.0194476066847
+        },
+        {
+          "name": "tossed",
+          "weight": 0.0174173151217
+        },
+        {
+          "name": "wearing",
+          "weight": 0.0165231714988
+        },
+        {
+          "name": "deli",
+          "weight": 0.0162088921035
+        },
+        {
+          "name": "hitting",
+          "weight": 0.0153064459075
+        },
+        {
+          "name": "evenings",
+          "weight": 0.0146894822535
+        },
+        {
+          "name": "shirts",
+          "weight": 0.0143444064319
+        },
+        {
+          "name": "punch",
+          "weight": 0.0140632942676
+        },
+        {
+          "name": "decorated",
+          "weight": 0.0139513618652
+        },
+        {
+          "name": "hill",
+          "weight": 0.0139401652872
+        }
+      ]
+    },
+    {
+      "name": "Topic 88",
+      "children": [
+        {
+          "name": "booked",
+          "weight": 0.0486217687012
+        },
+        {
+          "name": "ribs",
+          "weight": 0.0428766310504
+        },
+        {
+          "name": "closed",
+          "weight": 0.0288393643859
+        },
+        {
+          "name": "cinnamon",
+          "weight": 0.0253595671639
+        },
+        {
+          "name": "messed",
+          "weight": 0.0183814516116
+        },
+        {
+          "name": "weak",
+          "weight": 0.0160478125843
+        },
+        {
+          "name": "overcooked",
+          "weight": 0.0154813923974
+        },
+        {
+          "name": "snooze",
+          "weight": 0.0131341417237
+        },
+        {
+          "name": "wasnt",
+          "weight": 0.0124630083986
+        },
+        {
+          "name": "bone",
+          "weight": 0.0123518521454
+        },
+        {
+          "name": "chandler",
+          "weight": 0.0119429466455
+        },
+        {
+          "name": "ca",
+          "weight": 0.0111688708183
+        },
+        {
+          "name": "blvd",
+          "weight": 0.0111124586785
+        },
+        {
+          "name": "holy",
+          "weight": 0.0105096275061
+        },
+        {
+          "name": "neat",
+          "weight": 0.0101969254529
+        }
+      ]
+    },
+    {
+      "name": "Topic 89",
+      "children": [
+        {
+          "name": "nachos",
+          "weight": 0.0364960514193
+        },
+        {
+          "name": "tacos",
+          "weight": 0.0297434072923
+        },
+        {
+          "name": "salsa",
+          "weight": 0.0295649903938
+        },
+        {
+          "name": "mexican",
+          "weight": 0.0214676368081
+        },
+        {
+          "name": "chips",
+          "weight": 0.0208056081885
+        },
+        {
+          "name": "fish",
+          "weight": 0.0155506156539
+        },
+        {
+          "name": "pork",
+          "weight": 0.0148594256134
+        },
+        {
+          "name": "great",
+          "weight": 0.0121046354649
+        },
+        {
+          "name": "beans",
+          "weight": 0.0114648523769
+        },
+        {
+          "name": "shots",
+          "weight": 0.0112382515108
+        },
+        {
+          "name": "good",
+          "weight": 0.00853494724866
+        },
+        {
+          "name": "pulled",
+          "weight": 0.00775552294202
+        },
+        {
+          "name": "mimosas",
+          "weight": 0.00744338824874
+        },
+        {
+          "name": "specials",
+          "weight": 0.00682746202578
+        },
+        {
+          "name": "love",
+          "weight": 0.00656917669558
+        }
+      ]
+    },
+    {
+      "name": "Topic 90",
+      "children": [
+        {
+          "name": "quesadilla",
+          "weight": 0.0340988992371
+        },
+        {
+          "name": "shows",
+          "weight": 0.0181990951
+        },
+        {
+          "name": "gotta",
+          "weight": 0.0181366477684
+        },
+        {
+          "name": "rocks",
+          "weight": 0.0179024128896
+        },
+        {
+          "name": "alot",
+          "weight": 0.0177341015646
+        },
+        {
+          "name": "internet",
+          "weight": 0.0164117910211
+        },
+        {
+          "name": "jam",
+          "weight": 0.0158484901304
+        },
+        {
+          "name": "sammy",
+          "weight": 0.0157726271867
+        },
+        {
+          "name": "apologize",
+          "weight": 0.0145391769114
+        },
+        {
+          "name": "oj",
+          "weight": 0.0137057241929
+        },
+        {
+          "name": "tight",
+          "weight": 0.0132920206852
+        },
+        {
+          "name": "employee",
+          "weight": 0.0132903196419
+        },
+        {
+          "name": "chris",
+          "weight": 0.0112302864407
+        },
+        {
+          "name": "yep",
+          "weight": 0.0109411156649
+        },
+        {
+          "name": "ahwatukee",
+          "weight": 0.0100565199417
+        }
+      ]
+    },
+    {
+      "name": "Topic 91",
+      "children": [
+        {
+          "name": "specialty",
+          "weight": 0.0368373295334
+        },
+        {
+          "name": "eats",
+          "weight": 0.0252444709813
+        },
+        {
+          "name": "boston",
+          "weight": 0.0233465428915
+        },
+        {
+          "name": "kicked",
+          "weight": 0.0226500468272
+        },
+        {
+          "name": "funky",
+          "weight": 0.0223728863188
+        },
+        {
+          "name": "pig",
+          "weight": 0.0222851744993
+        },
+        {
+          "name": "fu",
+          "weight": 0.0213947571093
+        },
+        {
+          "name": "bored",
+          "weight": 0.0160675099352
+        },
+        {
+          "name": "ruben",
+          "weight": 0.0157017343614
+        },
+        {
+          "name": "reheated",
+          "weight": 0.0156170609042
+        },
+        {
+          "name": "deliver",
+          "weight": 0.0153776358057
+        },
+        {
+          "name": "background",
+          "weight": 0.0144741842067
+        },
+        {
+          "name": "substitute",
+          "weight": 0.0144612570752
+        },
+        {
+          "name": "florentine",
+          "weight": 0.0135484185651
+        },
+        {
+          "name": "havent",
+          "weight": 0.0131606024611
+        }
+      ]
+    },
+    {
+      "name": "Topic 92",
+      "children": [
+        {
+          "name": "rum",
+          "weight": 0.0274392855002
+        },
+        {
+          "name": "views",
+          "weight": 0.0217879543497
+        },
+        {
+          "name": "annoyed",
+          "weight": 0.0183295477371
+        },
+        {
+          "name": "bananas",
+          "weight": 0.0182480023687
+        },
+        {
+          "name": "strawberries",
+          "weight": 0.0168426265352
+        },
+        {
+          "name": "ghetto",
+          "weight": 0.0164027143003
+        },
+        {
+          "name": "blah",
+          "weight": 0.0145905820335
+        },
+        {
+          "name": "spotty",
+          "weight": 0.0136865400869
+        },
+        {
+          "name": "sell",
+          "weight": 0.0133617750015
+        },
+        {
+          "name": "casino",
+          "weight": 0.0121888600618
+        },
+        {
+          "name": "york",
+          "weight": 0.0121771668618
+        },
+        {
+          "name": "shoot",
+          "weight": 0.0121114219343
+        },
+        {
+          "name": "riding",
+          "weight": 0.011931906634
+        },
+        {
+          "name": "caramel",
+          "weight": 0.0115669886765
+        },
+        {
+          "name": "tiki",
+          "weight": 0.0113975332694
+        }
+      ]
+    },
+    {
+      "name": "Topic 93",
+      "children": [
+        {
+          "name": "gold",
+          "weight": 0.0397674746339
+        },
+        {
+          "name": "hamburger",
+          "weight": 0.0260239564315
+        },
+        {
+          "name": "broken",
+          "weight": 0.0211899368171
+        },
+        {
+          "name": "newer",
+          "weight": 0.0201537949434
+        },
+        {
+          "name": "drafts",
+          "weight": 0.0189280370181
+        },
+        {
+          "name": "understaffed",
+          "weight": 0.0178898766215
+        },
+        {
+          "name": "closing",
+          "weight": 0.017702861161
+        },
+        {
+          "name": "bummer",
+          "weight": 0.0170671487791
+        },
+        {
+          "name": "hair",
+          "weight": 0.0169953741125
+        },
+        {
+          "name": "mid",
+          "weight": 0.0168706317646
+        },
+        {
+          "name": "steaks",
+          "weight": 0.0167635482385
+        },
+        {
+          "name": "response",
+          "weight": 0.0165669366693
+        },
+        {
+          "name": "inn",
+          "weight": 0.016092103133
+        },
+        {
+          "name": "plantains",
+          "weight": 0.0156494293662
+        },
+        {
+          "name": "sangria",
+          "weight": 0.0154097448111
+        }
+      ]
+    },
+    {
+      "name": "Topic 94",
+      "children": [
+        {
+          "name": "daughter",
+          "weight": 0.0552982643142
+        },
+        {
+          "name": "honey",
+          "weight": 0.0440672970408
+        },
+        {
+          "name": "cilantro",
+          "weight": 0.0406197377402
+        },
+        {
+          "name": "amenities",
+          "weight": 0.0296542545252
+        },
+        {
+          "name": "reverse",
+          "weight": 0.0226284283366
+        },
+        {
+          "name": "bet",
+          "weight": 0.0181053452706
+        },
+        {
+          "name": "stated",
+          "weight": 0.0158459778509
+        },
+        {
+          "name": "wed",
+          "weight": 0.0143302084018
+        },
+        {
+          "name": "weekday",
+          "weight": 0.0134391903522
+        },
+        {
+          "name": "fly",
+          "weight": 0.0132631642315
+        },
+        {
+          "name": "sunny",
+          "weight": 0.012336524073
+        },
+        {
+          "name": "meets",
+          "weight": 0.0121124177002
+        },
+        {
+          "name": "barney",
+          "weight": 0.0114918504951
+        },
+        {
+          "name": "blend",
+          "weight": 0.0107032150418
+        },
+        {
+          "name": "restrooms",
+          "weight": 0.0106969401848
+        }
+      ]
+    },
+    {
+      "name": "Topic 95",
+      "children": [
+        {
+          "name": "prime",
+          "weight": 0.0666925286728
+        },
+        {
+          "name": "rib",
+          "weight": 0.0659730236651
+        },
+        {
+          "name": "3rd",
+          "weight": 0.0231603367804
+        },
+        {
+          "name": "channels",
+          "weight": 0.0202969144561
+        },
+        {
+          "name": "cajun",
+          "weight": 0.0183342646287
+        },
+        {
+          "name": "doors",
+          "weight": 0.0166789703242
+        },
+        {
+          "name": "harbor",
+          "weight": 0.0154757847925
+        },
+        {
+          "name": "rack",
+          "weight": 0.0146580259357
+        },
+        {
+          "name": "soo",
+          "weight": 0.0144585663334
+        },
+        {
+          "name": "bugs",
+          "weight": 0.01416822852
+        },
+        {
+          "name": "standards",
+          "weight": 0.0137724048986
+        },
+        {
+          "name": "weekly",
+          "weight": 0.0136182427643
+        },
+        {
+          "name": "phx",
+          "weight": 0.0128283317936
+        },
+        {
+          "name": "ridiculously",
+          "weight": 0.0119502337743
+        },
+        {
+          "name": "performance",
+          "weight": 0.011579593802
+        }
+      ]
+    },
+    {
+      "name": "Topic 96",
+      "children": [
+        {
+          "name": "philly",
+          "weight": 0.0795356190157
+        },
+        {
+          "name": "gem",
+          "weight": 0.036386476463
+        },
+        {
+          "name": "layout",
+          "weight": 0.0309005679411
+        },
+        {
+          "name": "wonderful",
+          "weight": 0.0296698229982
+        },
+        {
+          "name": "raspberry",
+          "weight": 0.0295838063503
+        },
+        {
+          "name": "personable",
+          "weight": 0.0288035385235
+        },
+        {
+          "name": "hidden",
+          "weight": 0.0285506553267
+        },
+        {
+          "name": "beware",
+          "weight": 0.0255144964731
+        },
+        {
+          "name": "treated",
+          "weight": 0.0234839839847
+        },
+        {
+          "name": "bf",
+          "weight": 0.0231293005618
+        },
+        {
+          "name": "hi",
+          "weight": 0.0214074528902
+        },
+        {
+          "name": "speedy",
+          "weight": 0.0196726021149
+        },
+        {
+          "name": "legit",
+          "weight": 0.0179571433117
+        },
+        {
+          "name": "incredibly",
+          "weight": 0.0175670048951
+        },
+        {
+          "name": "cheers",
+          "weight": 0.0170303463504
+        }
+      ]
+    },
+    {
+      "name": "Topic 97",
+      "children": [
+        {
+          "name": "poker",
+          "weight": 0.0598555120412
+        },
+        {
+          "name": "tots",
+          "weight": 0.0427555524163
+        },
+        {
+          "name": "miller",
+          "weight": 0.0352723520661
+        },
+        {
+          "name": "bands",
+          "weight": 0.0315197114
+        },
+        {
+          "name": "overpriced",
+          "weight": 0.0224907544419
+        },
+        {
+          "name": "upper",
+          "weight": 0.0221975048522
+        },
+        {
+          "name": "renovated",
+          "weight": 0.0200689104878
+        },
+        {
+          "name": "bud",
+          "weight": 0.0190317945177
+        },
+        {
+          "name": "cigarette",
+          "weight": 0.0175999241644
+        },
+        {
+          "name": "concept",
+          "weight": 0.0145057337322
+        },
+        {
+          "name": "blown",
+          "weight": 0.0119036186474
+        },
+        {
+          "name": "hop",
+          "weight": 0.0114065480535
+        },
+        {
+          "name": "clerk",
+          "weight": 0.0108855081529
+        },
+        {
+          "name": "spin",
+          "weight": 0.0107942474753
+        },
+        {
+          "name": "memorabilia",
+          "weight": 0.0104212345824
+        }
+      ]
+    },
+    {
+      "name": "Topic 98",
+      "children": [
+        {
+          "name": "smoking",
+          "weight": 0.0466821484911
+        },
+        {
+          "name": "trader",
+          "weight": 0.0310785431173
+        },
+        {
+          "name": "smoky",
+          "weight": 0.0221957652679
+        },
+        {
+          "name": "alice",
+          "weight": 0.0197130163644
+        },
+        {
+          "name": "yea",
+          "weight": 0.017185951708
+        },
+        {
+          "name": "upscale",
+          "weight": 0.0154316682553
+        },
+        {
+          "name": "player",
+          "weight": 0.0147435697818
+        },
+        {
+          "name": "megan",
+          "weight": 0.0141883057221
+        },
+        {
+          "name": "casino",
+          "weight": 0.013417406228
+        },
+        {
+          "name": "ps",
+          "weight": 0.0132119976605
+        },
+        {
+          "name": "choosing",
+          "weight": 0.0122752512796
+        },
+        {
+          "name": "buttermilk",
+          "weight": 0.0119539950625
+        },
+        {
+          "name": "300",
+          "weight": 0.0116307705178
+        },
+        {
+          "name": "grade",
+          "weight": 0.0115431148665
+        },
+        {
+          "name": "couches",
+          "weight": 0.0114347425548
+        }
+      ]
+    },
+    {
+      "name": "Topic 99",
+      "children": [
+        {
+          "name": "beer",
+          "weight": 0.0367521477923
+        },
+        {
+          "name": "great",
+          "weight": 0.0338079144535
+        },
+        {
+          "name": "bar",
+          "weight": 0.0302496181396
+        },
+        {
+          "name": "good",
+          "weight": 0.0240915319351
+        },
+        {
+          "name": "game",
+          "weight": 0.0204448262942
+        },
+        {
+          "name": "selection",
+          "weight": 0.0193452464435
+        },
+        {
+          "name": "beers",
+          "weight": 0.0187851386385
+        },
+        {
+          "name": "bartenders",
+          "weight": 0.0184675667932
+        },
+        {
+          "name": "fun",
+          "weight": 0.0181788558405
+        },
+        {
+          "name": "watch",
+          "weight": 0.0181577570255
+        },
+        {
+          "name": "hour",
+          "weight": 0.017630469294
+        },
+        {
+          "name": "happy",
+          "weight": 0.0175991042944
+        },
+        {
+          "name": "tvs",
+          "weight": 0.0167465517753
+        },
+        {
+          "name": "nice",
+          "weight": 0.0160621940615
+        },
+        {
+          "name": "place",
+          "weight": 0.01554780066
+        }
+      ]
+    }
+  ]
+}
