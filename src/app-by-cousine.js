@@ -6,7 +6,13 @@
         var links = tree.links(nodes);
 
         nodes.forEach(function (d) {
-            return d.y = d.depth * 130;
+            if(d.weight){
+                return d.y = d.depth * 160;
+            }
+            if(d.name.indexOf('Topic')<0){
+                return d.y = d.depth * 50;
+            }
+            return d.y = d.depth * 90;
         });
 
         var node = svg.selectAll('g.node').data(nodes, function (d) {
@@ -75,7 +81,7 @@
         nodeUpdate.select('circle')
             .attr('r', 4)
             .style('fill', function (d) {
-                if (d.name.indexOf('Cousines') >= 0){
+                if (d.name.indexOf('Cuisines') >= 0){
                     return 'black';
                 }
                 if (d.name.indexOf('Topic') >= 0) {
@@ -98,7 +104,10 @@
                 return 'end';
             }
         }).attr('transform', function (d) {
-            if(d.name.indexOf('Sample') >= 0 || d.name.indexOf('Topic') >= 0){
+            if (d.name.indexOf("Cuisines") >= 0){
+                return 'rotate(-90)translate(-8)';
+            }
+            if(d.name.indexOf('Topic') >= 0){
                 if (d.x < 180) {
                     return 'translate(-40)';
                 } else {
@@ -231,14 +240,14 @@
     .attr('width', '1800px')
     .attr('height', '100%')
     .append('g')
-    .attr('transform', 'translate(' + ((diameter / 2)+200)  + ',' + ((diameter / 2)+140)  + ')')
+    .attr('transform', 'translate(' + ((diameter / 2)+200)  + ',' + ((diameter / 2)+180)  + ')')
     .append('g').call(d3.behavior.zoom().scaleExtent([
         1,
         8
     ]).on('zoom', zoom));
 
 
-    d3.json("src/dataset-by-cousine.json", function(error, data) {
+    d3.json("src/dataset-by-cuisine.json", function(error, data) {
       if (error) throw error;
 
       root = data;
