@@ -1,657 +1,1315 @@
 ﻿{
   "name": "Cousines",
-  "children": [{
-  "name": "Cantonese",
   "children": [
     {
-      "name": "Topic 0",
+      "name": "Cantonese",
       "children": [
         {
-          "name": "food",
-          "weight": 0.00711052399046
+          "name": "Topic 0",
+          "children": [
+            {
+              "name": "food",
+              "weight": 0.00711052399046
+            },
+            {
+              "name": "buns",
+              "weight": 0.00674191691483
+            },
+            {
+              "name": "dim",
+              "weight": 0.00653716053465
+            },
+            {
+              "name": "orange",
+              "weight": 0.00636287773947
+            },
+            {
+              "name": "like",
+              "weight": 0.00618411567526
+            },
+            {
+              "name": "sum",
+              "weight": 0.0061152417837
+            },
+            {
+              "name": "place",
+              "weight": 0.00473036846867
+            },
+            {
+              "name": "price",
+              "weight": 0.00462609609548
+            },
+            {
+              "name": "fried",
+              "weight": 0.00460989404477
+            },
+            {
+              "name": "service",
+              "weight": 0.00457007023337
+            },
+            {
+              "name": "good",
+              "weight": 0.0043681191198
+            },
+            {
+              "name": "chicken",
+              "weight": 0.00429339351581
+            },
+            {
+              "name": "dont",
+              "weight": 0.00413504861127
+            },
+            {
+              "name": "try",
+              "weight": 0.0037079790982
+            },
+            {
+              "name": "area",
+              "weight": 0.0036662551797
+            }
+          ]
         },
         {
-          "name": "buns",
-          "weight": 0.00674191691483
+          "name": "Topic 1",
+          "children": [
+            {
+              "name": "service",
+              "weight": 0.0145265867427
+            },
+            {
+              "name": "chicken",
+              "weight": 0.0124446514122
+            },
+            {
+              "name": "good",
+              "weight": 0.0089066127066
+            },
+            {
+              "name": "food",
+              "weight": 0.00886171367082
+            },
+            {
+              "name": "place",
+              "weight": 0.00803929597592
+            },
+            {
+              "name": "restaurant",
+              "weight": 0.00727298754509
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00654588133442
+            },
+            {
+              "name": "things",
+              "weight": 0.00585059604503
+            },
+            {
+              "name": "ordered",
+              "weight": 0.00536131425931
+            },
+            {
+              "name": "dim",
+              "weight": 0.00524710900605
+            },
+            {
+              "name": "sum",
+              "weight": 0.00523313468846
+            },
+            {
+              "name": "great",
+              "weight": 0.00521113397821
+            },
+            {
+              "name": "bad",
+              "weight": 0.00498319871022
+            },
+            {
+              "name": "terrible",
+              "weight": 0.00481360069307
+            },
+            {
+              "name": "just",
+              "weight": 0.00477726970331
+            }
+          ]
         },
         {
-          "name": "dim",
-          "weight": 0.00653716053465
+          "name": "Topic 2",
+          "children": [
+            {
+              "name": "dim",
+              "weight": 0.0145124971304
+            },
+            {
+              "name": "sum",
+              "weight": 0.0144299881995
+            },
+            {
+              "name": "food",
+              "weight": 0.0105478396775
+            },
+            {
+              "name": "good",
+              "weight": 0.00858757476566
+            },
+            {
+              "name": "place",
+              "weight": 0.00841030128783
+            },
+            {
+              "name": "palace",
+              "weight": 0.00786419503656
+            },
+            {
+              "name": "harbor",
+              "weight": 0.0077209982011
+            },
+            {
+              "name": "service",
+              "weight": 0.0076643655507
+            },
+            {
+              "name": "time",
+              "weight": 0.00724640554581
+            },
+            {
+              "name": "love",
+              "weight": 0.00605400692726
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00556555691289
+            },
+            {
+              "name": "dishes",
+              "weight": 0.00547471692665
+            },
+            {
+              "name": "excellent",
+              "weight": 0.00516912382643
+            },
+            {
+              "name": "try",
+              "weight": 0.00498055192099
+            },
+            {
+              "name": "vegas",
+              "weight": 0.00437596220118
+            }
+          ]
         },
         {
-          "name": "orange",
-          "weight": 0.00636287773947
+          "name": "Topic 3",
+          "children": [
+            {
+              "name": "food",
+              "weight": 0.0175646918477
+            },
+            {
+              "name": "dim",
+              "weight": 0.0116381937812
+            },
+            {
+              "name": "sum",
+              "weight": 0.0113226363514
+            },
+            {
+              "name": "good",
+              "weight": 0.0106834301464
+            },
+            {
+              "name": "service",
+              "weight": 0.00999382243059
+            },
+            {
+              "name": "friendly",
+              "weight": 0.00899625041463
+            },
+            {
+              "name": "price",
+              "weight": 0.00763776352879
+            },
+            {
+              "name": "vietnamese",
+              "weight": 0.00728639986586
+            },
+            {
+              "name": "place",
+              "weight": 0.0067223048605
+            },
+            {
+              "name": "just",
+              "weight": 0.00559768310263
+            },
+            {
+              "name": "decent",
+              "weight": 0.00525495330018
+            },
+            {
+              "name": "awesome",
+              "weight": 0.00516828311273
+            },
+            {
+              "name": "staff",
+              "weight": 0.00490473195262
+            },
+            {
+              "name": "chicken",
+              "weight": 0.00468418494508
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00442448729457
+            }
+          ]
         },
         {
-          "name": "like",
-          "weight": 0.00618411567526
+          "name": "Topic 4",
+          "children": [
+            {
+              "name": "food",
+              "weight": 0.00836783473745
+            },
+            {
+              "name": "place",
+              "weight": 0.00740442810296
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00645776250934
+            },
+            {
+              "name": "dim",
+              "weight": 0.0060146337157
+            },
+            {
+              "name": "sum",
+              "weight": 0.00594680920088
+            },
+            {
+              "name": "restaurant",
+              "weight": 0.00576925523493
+            },
+            {
+              "name": "great",
+              "weight": 0.00554036772436
+            },
+            {
+              "name": "good",
+              "weight": 0.00538714562528
+            },
+            {
+              "name": "service",
+              "weight": 0.00469543869881
+            },
+            {
+              "name": "review",
+              "weight": 0.00452527403046
+            },
+            {
+              "name": "certainly",
+              "weight": 0.0044059157134
+            },
+            {
+              "name": "just",
+              "weight": 0.00439902480837
+            },
+            {
+              "name": "second",
+              "weight": 0.00432380117681
+            },
+            {
+              "name": "pretty",
+              "weight": 0.00422474516521
+            },
+            {
+              "name": "thought",
+              "weight": 0.00414704131169
+            }
+          ]
         },
         {
-          "name": "sum",
-          "weight": 0.0061152417837
+          "name": "Topic 5",
+          "children": [
+            {
+              "name": "good",
+              "weight": 0.00855542385697
+            },
+            {
+              "name": "place",
+              "weight": 0.00833235639974
+            },
+            {
+              "name": "food",
+              "weight": 0.0077867424551
+            },
+            {
+              "name": "restaurant",
+              "weight": 0.00614819108753
+            },
+            {
+              "name": "sum",
+              "weight": 0.00598386489651
+            },
+            {
+              "name": "just",
+              "weight": 0.00585436204106
+            },
+            {
+              "name": "dim",
+              "weight": 0.00571254377587
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00540483622811
+            },
+            {
+              "name": "like",
+              "weight": 0.00521566729681
+            },
+            {
+              "name": "great",
+              "weight": 0.00492877262372
+            },
+            {
+              "name": "want",
+              "weight": 0.00487977524593
+            },
+            {
+              "name": "service",
+              "weight": 0.00441455498315
+            },
+            {
+              "name": "know",
+              "weight": 0.00392547658717
+            },
+            {
+              "name": "eat",
+              "weight": 0.00385227939762
+            },
+            {
+              "name": "dirty",
+              "weight": 0.00382128707312
+            }
+          ]
         },
         {
-          "name": "place",
-          "weight": 0.00473036846867
+          "name": "Topic 6",
+          "children": [
+            {
+              "name": "food",
+              "weight": 0.00953309307366
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00903458534634
+            },
+            {
+              "name": "sum",
+              "weight": 0.00877770987145
+            },
+            {
+              "name": "thai",
+              "weight": 0.0086980528447
+            },
+            {
+              "name": "dim",
+              "weight": 0.00818354383887
+            },
+            {
+              "name": "good",
+              "weight": 0.00782545632124
+            },
+            {
+              "name": "best",
+              "weight": 0.00756961677633
+            },
+            {
+              "name": "vegas",
+              "weight": 0.00592322233067
+            },
+            {
+              "name": "return",
+              "weight": 0.00525041537533
+            },
+            {
+              "name": "hot",
+              "weight": 0.00506178709413
+            },
+            {
+              "name": "service",
+              "weight": 0.00500432187278
+            },
+            {
+              "name": "shrimp",
+              "weight": 0.00488668207601
+            },
+            {
+              "name": "authentic",
+              "weight": 0.00456775122742
+            },
+            {
+              "name": "noodle",
+              "weight": 0.00455450842587
+            },
+            {
+              "name": "restaurant",
+              "weight": 0.00449212697232
+            }
+          ]
         },
         {
-          "name": "price",
-          "weight": 0.00462609609548
+          "name": "Topic 7",
+          "children": [
+            {
+              "name": "ordered",
+              "weight": 0.0109561581477
+            },
+            {
+              "name": "great",
+              "weight": 0.0101505624764
+            },
+            {
+              "name": "rice",
+              "weight": 0.0087398211432
+            },
+            {
+              "name": "food",
+              "weight": 0.00842432340721
+            },
+            {
+              "name": "service",
+              "weight": 0.00781933620905
+            },
+            {
+              "name": "egg",
+              "weight": 0.00742066922917
+            },
+            {
+              "name": "place",
+              "weight": 0.00691843038434
+            },
+            {
+              "name": "curry",
+              "weight": 0.00690639110279
+            },
+            {
+              "name": "good",
+              "weight": 0.00666420998499
+            },
+            {
+              "name": "fu",
+              "weight": 0.00640361963157
+            },
+            {
+              "name": "fried",
+              "weight": 0.00581145065904
+            },
+            {
+              "name": "shrimp",
+              "weight": 0.00576633099567
+            },
+            {
+              "name": "chicken",
+              "weight": 0.00550144444139
+            },
+            {
+              "name": "order",
+              "weight": 0.00503987572474
+            },
+            {
+              "name": "hard",
+              "weight": 0.00469565635687
+            }
+          ]
         },
         {
-          "name": "fried",
-          "weight": 0.00460989404477
+          "name": "Topic 8",
+          "children": [
+            {
+              "name": "sauce",
+              "weight": 0.0085495911674
+            },
+            {
+              "name": "shrimp",
+              "weight": 0.00710748124683
+            },
+            {
+              "name": "food",
+              "weight": 0.00669761914028
+            },
+            {
+              "name": "ordered",
+              "weight": 0.00606610133222
+            },
+            {
+              "name": "duck",
+              "weight": 0.00538004648203
+            },
+            {
+              "name": "come",
+              "weight": 0.00522862356988
+            },
+            {
+              "name": "good",
+              "weight": 0.00493156871637
+            },
+            {
+              "name": "family",
+              "weight": 0.00478828238816
+            },
+            {
+              "name": "thai",
+              "weight": 0.00467951905014
+            },
+            {
+              "name": "dish",
+              "weight": 0.00444637583584
+            },
+            {
+              "name": "place",
+              "weight": 0.00437976087844
+            },
+            {
+              "name": "great",
+              "weight": 0.00433809991572
+            },
+            {
+              "name": "sum",
+              "weight": 0.00418745187271
+            },
+            {
+              "name": "noodles",
+              "weight": 0.00417148802096
+            },
+            {
+              "name": "really",
+              "weight": 0.0041606658355
+            }
+          ]
         },
         {
-          "name": "service",
-          "weight": 0.00457007023337
-        },
-        {
-          "name": "good",
-          "weight": 0.0043681191198
-        },
-        {
-          "name": "chicken",
-          "weight": 0.00429339351581
-        },
-        {
-          "name": "dont",
-          "weight": 0.00413504861127
-        },
-        {
-          "name": "try",
-          "weight": 0.0037079790982
-        },
-        {
-          "name": "area",
-          "weight": 0.0036662551797
+          "name": "Topic 9",
+          "children": [
+            {
+              "name": "place",
+              "weight": 0.00963290350318
+            },
+            {
+              "name": "food",
+              "weight": 0.00854220944235
+            },
+            {
+              "name": "good",
+              "weight": 0.00660632229324
+            },
+            {
+              "name": "try",
+              "weight": 0.00603363949592
+            },
+            {
+              "name": "chinese",
+              "weight": 0.00594469805347
+            },
+            {
+              "name": "menu",
+              "weight": 0.00590838469381
+            },
+            {
+              "name": "great",
+              "weight": 0.00547045827973
+            },
+            {
+              "name": "modern",
+              "weight": 0.00543544508968
+            },
+            {
+              "name": "service",
+              "weight": 0.00513442310835
+            },
+            {
+              "name": "chicken",
+              "weight": 0.00512114509132
+            },
+            {
+              "name": "credit",
+              "weight": 0.00510521829156
+            },
+            {
+              "name": "really",
+              "weight": 0.00497071843761
+            },
+            {
+              "name": "surprise",
+              "weight": 0.00490638211768
+            },
+            {
+              "name": "dim",
+              "weight": 0.00446233466455
+            },
+            {
+              "name": "sum",
+              "weight": 0.00442895351838
+            }
+          ]
         }
       ]
     },
     {
-      "name": "Topic 1",
+      "name": "Irish",
       "children": [
         {
-          "name": "service",
-          "weight": 0.0145265867427
-        },
-        {
-          "name": "chicken",
-          "weight": 0.0124446514122
-        },
-        {
-          "name": "good",
-          "weight": 0.0089066127066
-        },
-        {
-          "name": "food",
-          "weight": 0.00886171367082
-        },
-        {
-          "name": "place",
-          "weight": 0.00803929597592
-        },
-        {
-          "name": "restaurant",
-          "weight": 0.00727298754509
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00654588133442
-        },
-        {
-          "name": "things",
-          "weight": 0.00585059604503
-        },
-        {
-          "name": "ordered",
-          "weight": 0.00536131425931
-        },
-        {
-          "name": "dim",
-          "weight": 0.00524710900605
-        },
-        {
-          "name": "sum",
-          "weight": 0.00523313468846
-        },
-        {
-          "name": "great",
-          "weight": 0.00521113397821
-        },
-        {
-          "name": "bad",
-          "weight": 0.00498319871022
-        },
-        {
-          "name": "terrible",
-          "weight": 0.00481360069307
-        },
-        {
-          "name": "just",
-          "weight": 0.00477726970331
-        }
-      ]
-    },
-    {
-      "name": "Topic 2",
-      "children": [
-        {
-          "name": "dim",
-          "weight": 0.0145124971304
-        },
-        {
-          "name": "sum",
-          "weight": 0.0144299881995
-        },
-        {
-          "name": "food",
-          "weight": 0.0105478396775
-        },
-        {
-          "name": "good",
-          "weight": 0.00858757476566
-        },
-        {
-          "name": "place",
-          "weight": 0.00841030128783
-        },
-        {
-          "name": "palace",
-          "weight": 0.00786419503656
-        },
-        {
-          "name": "harbor",
-          "weight": 0.0077209982011
-        },
-        {
-          "name": "service",
-          "weight": 0.0076643655507
-        },
-        {
-          "name": "time",
-          "weight": 0.00724640554581
-        },
-        {
-          "name": "love",
-          "weight": 0.00605400692726
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00556555691289
-        },
-        {
-          "name": "dishes",
-          "weight": 0.00547471692665
-        },
-        {
-          "name": "excellent",
-          "weight": 0.00516912382643
-        },
-        {
-          "name": "try",
-          "weight": 0.00498055192099
-        },
-        {
-          "name": "vegas",
-          "weight": 0.00437596220118
-        }
-      ]
-    },
-    {
-      "name": "Topic 3",
-      "children": [
-        {
-          "name": "food",
-          "weight": 0.0175646918477
-        },
-        {
-          "name": "dim",
-          "weight": 0.0116381937812
-        },
-        {
-          "name": "sum",
-          "weight": 0.0113226363514
-        },
-        {
-          "name": "good",
-          "weight": 0.0106834301464
-        },
-        {
-          "name": "service",
-          "weight": 0.00999382243059
-        },
-        {
-          "name": "friendly",
-          "weight": 0.00899625041463
-        },
-        {
-          "name": "price",
-          "weight": 0.00763776352879
-        },
-        {
-          "name": "vietnamese",
-          "weight": 0.00728639986586
-        },
-        {
-          "name": "place",
-          "weight": 0.0067223048605
-        },
-        {
-          "name": "just",
-          "weight": 0.00559768310263
-        },
-        {
-          "name": "decent",
-          "weight": 0.00525495330018
-        },
-        {
-          "name": "awesome",
-          "weight": 0.00516828311273
-        },
-        {
-          "name": "staff",
-          "weight": 0.00490473195262
-        },
-        {
-          "name": "chicken",
-          "weight": 0.00468418494508
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00442448729457
-        }
-      ]
-    },
-    {
-      "name": "Topic 4",
-      "children": [
-        {
-          "name": "food",
-          "weight": 0.00836783473745
-        },
-        {
-          "name": "place",
-          "weight": 0.00740442810296
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00645776250934
-        },
-        {
-          "name": "dim",
-          "weight": 0.0060146337157
-        },
-        {
-          "name": "sum",
-          "weight": 0.00594680920088
-        },
-        {
-          "name": "restaurant",
-          "weight": 0.00576925523493
-        },
-        {
-          "name": "great",
-          "weight": 0.00554036772436
-        },
-        {
-          "name": "good",
-          "weight": 0.00538714562528
-        },
-        {
-          "name": "service",
-          "weight": 0.00469543869881
-        },
-        {
-          "name": "review",
-          "weight": 0.00452527403046
-        },
-        {
-          "name": "certainly",
-          "weight": 0.0044059157134
-        },
-        {
-          "name": "just",
-          "weight": 0.00439902480837
-        },
-        {
-          "name": "second",
-          "weight": 0.00432380117681
-        },
-        {
-          "name": "pretty",
-          "weight": 0.00422474516521
-        },
-        {
-          "name": "thought",
-          "weight": 0.00414704131169
-        }
-      ]
-    },
-    {
-      "name": "Topic 5",
-      "children": [
-        {
-          "name": "good",
-          "weight": 0.00855542385697
-        },
-        {
-          "name": "place",
-          "weight": 0.00833235639974
-        },
-        {
-          "name": "food",
-          "weight": 0.0077867424551
-        },
-        {
-          "name": "restaurant",
-          "weight": 0.00614819108753
-        },
-        {
-          "name": "sum",
-          "weight": 0.00598386489651
-        },
-        {
-          "name": "just",
-          "weight": 0.00585436204106
-        },
-        {
-          "name": "dim",
-          "weight": 0.00571254377587
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00540483622811
-        },
-        {
-          "name": "like",
-          "weight": 0.00521566729681
-        },
-        {
-          "name": "great",
-          "weight": 0.00492877262372
-        },
-        {
-          "name": "want",
-          "weight": 0.00487977524593
-        },
-        {
-          "name": "service",
-          "weight": 0.00441455498315
-        },
-        {
-          "name": "know",
-          "weight": 0.00392547658717
-        },
-        {
-          "name": "eat",
-          "weight": 0.00385227939762
-        },
-        {
-          "name": "dirty",
-          "weight": 0.00382128707312
-        }
-      ]
-    },
-    {
-      "name": "Topic 6",
-      "children": [
-        {
-          "name": "food",
-          "weight": 0.00953309307366
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00903458534634
-        },
-        {
-          "name": "sum",
-          "weight": 0.00877770987145
-        },
-        {
-          "name": "thai",
-          "weight": 0.0086980528447
-        },
-        {
-          "name": "dim",
-          "weight": 0.00818354383887
-        },
-        {
-          "name": "good",
-          "weight": 0.00782545632124
-        },
-        {
-          "name": "best",
-          "weight": 0.00756961677633
-        },
-        {
-          "name": "vegas",
-          "weight": 0.00592322233067
-        },
-        {
-          "name": "return",
-          "weight": 0.00525041537533
-        },
-        {
-          "name": "hot",
-          "weight": 0.00506178709413
-        },
-        {
-          "name": "service",
-          "weight": 0.00500432187278
-        },
-        {
-          "name": "shrimp",
-          "weight": 0.00488668207601
-        },
-        {
-          "name": "authentic",
-          "weight": 0.00456775122742
-        },
-        {
-          "name": "noodle",
-          "weight": 0.00455450842587
-        },
-        {
-          "name": "restaurant",
-          "weight": 0.00449212697232
-        }
-      ]
-    },
-    {
-      "name": "Topic 7",
-      "children": [
-        {
-          "name": "ordered",
-          "weight": 0.0109561581477
-        },
-        {
-          "name": "great",
-          "weight": 0.0101505624764
-        },
-        {
-          "name": "rice",
-          "weight": 0.0087398211432
-        },
-        {
-          "name": "food",
-          "weight": 0.00842432340721
-        },
-        {
-          "name": "service",
-          "weight": 0.00781933620905
-        },
-        {
-          "name": "egg",
-          "weight": 0.00742066922917
-        },
-        {
-          "name": "place",
-          "weight": 0.00691843038434
-        },
-        {
-          "name": "curry",
-          "weight": 0.00690639110279
-        },
-        {
-          "name": "good",
-          "weight": 0.00666420998499
-        },
-        {
-          "name": "fu",
-          "weight": 0.00640361963157
-        },
-        {
-          "name": "fried",
-          "weight": 0.00581145065904
-        },
-        {
-          "name": "shrimp",
-          "weight": 0.00576633099567
-        },
-        {
-          "name": "chicken",
-          "weight": 0.00550144444139
-        },
-        {
-          "name": "order",
-          "weight": 0.00503987572474
-        },
-        {
-          "name": "hard",
-          "weight": 0.00469565635687
-        }
-      ]
-    },
-    {
-      "name": "Topic 8",
-      "children": [
-        {
-          "name": "sauce",
-          "weight": 0.0085495911674
-        },
-        {
-          "name": "shrimp",
-          "weight": 0.00710748124683
-        },
-        {
-          "name": "food",
-          "weight": 0.00669761914028
-        },
-        {
-          "name": "ordered",
-          "weight": 0.00606610133222
-        },
-        {
-          "name": "duck",
-          "weight": 0.00538004648203
-        },
-        {
-          "name": "come",
-          "weight": 0.00522862356988
-        },
-        {
-          "name": "good",
-          "weight": 0.00493156871637
-        },
-        {
-          "name": "family",
-          "weight": 0.00478828238816
-        },
-        {
-          "name": "thai",
-          "weight": 0.00467951905014
-        },
-        {
-          "name": "dish",
-          "weight": 0.00444637583584
-        },
-        {
-          "name": "place",
-          "weight": 0.00437976087844
-        },
-        {
-          "name": "great",
-          "weight": 0.00433809991572
-        },
-        {
-          "name": "sum",
-          "weight": 0.00418745187271
-        },
-        {
-          "name": "noodles",
-          "weight": 0.00417148802096
-        },
-        {
-          "name": "really",
-          "weight": 0.0041606658355
-        }
-      ]
-    },
-    {
-      "name": "Topic 9",
-      "children": [
-        {
-          "name": "place",
-          "weight": 0.00963290350318
-        },
-        {
-          "name": "food",
-          "weight": 0.00854220944235
-        },
-        {
-          "name": "good",
-          "weight": 0.00660632229324
-        },
-        {
-          "name": "try",
-          "weight": 0.00603363949592
-        },
-        {
-          "name": "chinese",
-          "weight": 0.00594469805347
-        },
-        {
-          "name": "menu",
-          "weight": 0.00590838469381
-        },
-        {
-          "name": "great",
-          "weight": 0.00547045827973
-        },
-        {
-          "name": "modern",
-          "weight": 0.00543544508968
-        },
-        {
-          "name": "service",
-          "weight": 0.00513442310835
-        },
-        {
-          "name": "chicken",
-          "weight": 0.00512114509132
-        },
-        {
-          "name": "credit",
-          "weight": 0.00510521829156
-        },
-        {
-          "name": "really",
-          "weight": 0.00497071843761
-        },
-        {
-          "name": "surprise",
-          "weight": 0.00490638211768
-        },
-        {
-          "name": "dim",
-          "weight": 0.00446233466455
-        },
-        {
-          "name": "sum",
-          "weight": 0.00442895351838
+          "name": "Topic 0",
+          "children": [
+            {
+              "name": "hostess",
+              "weight": 0.0103608909974
+            },
+            {
+              "name": "showed",
+              "weight": 0.00937865670179
+            },
+            {
+              "name": "bay",
+              "weight": 0.00782040502272
+            },
+            {
+              "name": "reuben",
+              "weight": 0.00601199879164
+            },
+            {
+              "name": "great",
+              "weight": 0.00512386663742
+            },
+            {
+              "name": "closed",
+              "weight": 0.00486166054697
+            },
+            {
+              "name": "monday",
+              "weight": 0.00475044695052
+            },
+            {
+              "name": "food",
+              "weight": 0.00473467682927
+            },
+            {
+              "name": "place",
+              "weight": 0.00466516851189
+            },
+            {
+              "name": "good",
+              "weight": 0.00449353335187
+            },
+            {
+              "name": "minute",
+              "weight": 0.00422605530922
+            },
+            {
+              "name": "mandalay",
+              "weight": 0.00421141939306
+            },
+            {
+              "name": "murphy",
+              "weight": 0.00405582698683
+            },
+            {
+              "name": "service",
+              "weight": 0.00397172267861
+            },
+            {
+              "name": "square",
+              "weight": 0.00393048244915
+            }
+          ]
+        },
+        {
+          "name": "Topic 1",
+          "children": [
+            {
+              "name": "food",
+              "weight": 0.0156821683409
+            },
+            {
+              "name": "place",
+              "weight": 0.0137843359877
+            },
+            {
+              "name": "great",
+              "weight": 0.0120665342817
+            },
+            {
+              "name": "good",
+              "weight": 0.011281477848
+            },
+            {
+              "name": "bar",
+              "weight": 0.0105590193106
+            },
+            {
+              "name": "service",
+              "weight": 0.00961504323256
+            },
+            {
+              "name": "irish",
+              "weight": 0.00840070734273
+            },
+            {
+              "name": "staff",
+              "weight": 0.00717578408573
+            },
+            {
+              "name": "time",
+              "weight": 0.00710963147477
+            },
+            {
+              "name": "drinks",
+              "weight": 0.00707939324747
+            },
+            {
+              "name": "like",
+              "weight": 0.00669922483787
+            },
+            {
+              "name": "pub",
+              "weight": 0.00637379619924
+            },
+            {
+              "name": "night",
+              "weight": 0.0061763081417
+            },
+            {
+              "name": "nice",
+              "weight": 0.00597966362256
+            },
+            {
+              "name": "beer",
+              "weight": 0.00589191742929
+            }
+          ]
+        },
+        {
+          "name": "Topic 2",
+          "children": [
+            {
+              "name": "fail",
+              "weight": 0.0292157352916
+            },
+            {
+              "name": "tired",
+              "weight": 0.00775366159842
+            },
+            {
+              "name": "shame",
+              "weight": 0.00650748410257
+            },
+            {
+              "name": "johnny",
+              "weight": 0.00649414212786
+            },
+            {
+              "name": "medium",
+              "weight": 0.0057489090776
+            },
+            {
+              "name": "nearby",
+              "weight": 0.00546999058918
+            },
+            {
+              "name": "lis",
+              "weight": 0.00537222208647
+            },
+            {
+              "name": "doon",
+              "weight": 0.00536790759333
+            },
+            {
+              "name": "varna",
+              "weight": 0.00494006774356
+            },
+            {
+              "name": "hostess",
+              "weight": 0.00484110821004
+            },
+            {
+              "name": "company",
+              "weight": 0.00471890761044
+            },
+            {
+              "name": "teriyaki",
+              "weight": 0.00458840321684
+            },
+            {
+              "name": "volume",
+              "weight": 0.00453350850345
+            },
+            {
+              "name": "missed",
+              "weight": 0.00444183497786
+            },
+            {
+              "name": "waited",
+              "weight": 0.0043368786076
+            }
+          ]
+        },
+        {
+          "name": "Topic 3",
+          "children": [
+            {
+              "name": "manager",
+              "weight": 0.0103506546776
+            },
+            {
+              "name": "asked",
+              "weight": 0.00666389441949
+            },
+            {
+              "name": "guests",
+              "weight": 0.00631375538703
+            },
+            {
+              "name": "cook",
+              "weight": 0.00576675037085
+            },
+            {
+              "name": "cut",
+              "weight": 0.0055581814884
+            },
+            {
+              "name": "twice",
+              "weight": 0.00479966179244
+            },
+            {
+              "name": "gone",
+              "weight": 0.00472446593048
+            },
+            {
+              "name": "sense",
+              "weight": 0.00459864466484
+            },
+            {
+              "name": "previous",
+              "weight": 0.00454421907395
+            },
+            {
+              "name": "coffee",
+              "weight": 0.00453787908153
+            },
+            {
+              "name": "sad",
+              "weight": 0.00449763065269
+            },
+            {
+              "name": "pricing",
+              "weight": 0.00400053541139
+            },
+            {
+              "name": "weeks",
+              "weight": 0.00392434999149
+            },
+            {
+              "name": "guinness",
+              "weight": 0.00354164563869
+            },
+            {
+              "name": "pick",
+              "weight": 0.00354017614011
+            }
+          ]
+        },
+        {
+          "name": "Topic 4",
+          "children": [
+            {
+              "name": "vegas",
+              "weight": 0.0105727161602
+            },
+            {
+              "name": "won",
+              "weight": 0.00735789722641
+            },
+            {
+              "name": "place",
+              "weight": 0.00689187812401
+            },
+            {
+              "name": "sports",
+              "weight": 0.00562152264373
+            },
+            {
+              "name": "nachos",
+              "weight": 0.00559961074408
+            },
+            {
+              "name": "irish",
+              "weight": 0.00547560444479
+            },
+            {
+              "name": "waitresses",
+              "weight": 0.00513583786108
+            },
+            {
+              "name": "waitress",
+              "weight": 0.0049774930009
+            },
+            {
+              "name": "bar",
+              "weight": 0.0049063474166
+            },
+            {
+              "name": "football",
+              "weight": 0.00469813651309
+            },
+            {
+              "name": "minutes",
+              "weight": 0.00443765910853
+            },
+            {
+              "name": "took",
+              "weight": 0.00424032259559
+            },
+            {
+              "name": "like",
+              "weight": 0.0040651098363
+            },
+            {
+              "name": "come",
+              "weight": 0.00405385783689
+            },
+            {
+              "name": "square",
+              "weight": 0.00398618049002
+            }
+          ]
+        },
+        {
+          "name": "Topic 5",
+          "children": [
+            {
+              "name": "fish",
+              "weight": 0.0123861599017
+            },
+            {
+              "name": "good",
+              "weight": 0.0118958666857
+            },
+            {
+              "name": "chips",
+              "weight": 0.0102652133925
+            },
+            {
+              "name": "ordered",
+              "weight": 0.00986867997047
+            },
+            {
+              "name": "food",
+              "weight": 0.00925462287042
+            },
+            {
+              "name": "beef",
+              "weight": 0.00696376011005
+            },
+            {
+              "name": "fries",
+              "weight": 0.00686391001301
+            },
+            {
+              "name": "cheese",
+              "weight": 0.00682730518806
+            },
+            {
+              "name": "menu",
+              "weight": 0.00668391760304
+            },
+            {
+              "name": "chicken",
+              "weight": 0.00653894532861
+            },
+            {
+              "name": "burger",
+              "weight": 0.00647521910702
+            },
+            {
+              "name": "irish",
+              "weight": 0.00577100587545
+            },
+            {
+              "name": "sauce",
+              "weight": 0.00543883232434
+            },
+            {
+              "name": "sandwich",
+              "weight": 0.00535792722516
+            },
+            {
+              "name": "just",
+              "weight": 0.00528828538866
+            }
+          ]
+        },
+        {
+          "name": "Topic 6",
+          "children": [
+            {
+              "name": "star",
+              "weight": 0.00658268596593
+            },
+            {
+              "name": "food",
+              "weight": 0.00630175039932
+            },
+            {
+              "name": "place",
+              "weight": 0.00630138840794
+            },
+            {
+              "name": "came",
+              "weight": 0.00485857657317
+            },
+            {
+              "name": "takes",
+              "weight": 0.00475710055794
+            },
+            {
+              "name": "service",
+              "weight": 0.00462799869636
+            },
+            {
+              "name": "booth",
+              "weight": 0.00453882885635
+            },
+            {
+              "name": "square",
+              "weight": 0.00438838629159
+            },
+            {
+              "name": "good",
+              "weight": 0.00430875051935
+            },
+            {
+              "name": "review",
+              "weight": 0.00430526893024
+            },
+            {
+              "name": "mall",
+              "weight": 0.00408313941217
+            },
+            {
+              "name": "water",
+              "weight": 0.00402633558693
+            },
+            {
+              "name": "server",
+              "weight": 0.00398763082719
+            },
+            {
+              "name": "asked",
+              "weight": 0.00398512393098
+            },
+            {
+              "name": "stars",
+              "weight": 0.00385342419237
+            }
+          ]
+        },
+        {
+          "name": "Topic 7",
+          "children": [
+            {
+              "name": "fox",
+              "weight": 0.0112743319397
+            },
+            {
+              "name": "breakfast",
+              "weight": 0.0111586958022
+            },
+            {
+              "name": "curry",
+              "weight": 0.00748952719948
+            },
+            {
+              "name": "service",
+              "weight": 0.00566397363128
+            },
+            {
+              "name": "7pm",
+              "weight": 0.0056533138566
+            },
+            {
+              "name": "clean",
+              "weight": 0.00528035330533
+            },
+            {
+              "name": "great",
+              "weight": 0.00510390113612
+            },
+            {
+              "name": "details",
+              "weight": 0.00500757923165
+            },
+            {
+              "name": "nice",
+              "weight": 0.00500229400791
+            },
+            {
+              "name": "seats",
+              "weight": 0.00474128936438
+            },
+            {
+              "name": "chefs",
+              "weight": 0.00453554564519
+            },
+            {
+              "name": "previously",
+              "weight": 0.00403160906729
+            },
+            {
+              "name": "silverware",
+              "weight": 0.00401477201734
+            },
+            {
+              "name": "beautiful",
+              "weight": 0.00385648909053
+            },
+            {
+              "name": "break",
+              "weight": 0.00376514149521
+            }
+          ]
+        },
+        {
+          "name": "Topic 8",
+          "children": [
+            {
+              "name": "owner",
+              "weight": 0.00685986727267
+            },
+            {
+              "name": "review",
+              "weight": 0.00669979403142
+            },
+            {
+              "name": "dance",
+              "weight": 0.00656298579415
+            },
+            {
+              "name": "venue",
+              "weight": 0.00595778115067
+            },
+            {
+              "name": "job",
+              "weight": 0.00548136557716
+            },
+            {
+              "name": "place",
+              "weight": 0.00519007567187
+            },
+            {
+              "name": "new",
+              "weight": 0.00497144528706
+            },
+            {
+              "name": "ra",
+              "weight": 0.00495052405818
+            },
+            {
+              "name": "ri",
+              "weight": 0.00491389500517
+            },
+            {
+              "name": "opened",
+              "weight": 0.0048870964462
+            },
+            {
+              "name": "irish",
+              "weight": 0.00443185876692
+            },
+            {
+              "name": "drink",
+              "weight": 0.00439493599457
+            },
+            {
+              "name": "locals",
+              "weight": 0.00417377691965
+            },
+            {
+              "name": "news",
+              "weight": 0.00401740822942
+            },
+            {
+              "name": "happy",
+              "weight": 0.00399322727743
+            }
+          ]
+        },
+        {
+          "name": "Topic 9",
+          "children": [
+            {
+              "name": "mcfaddens",
+              "weight": 0.00949329265066
+            },
+            {
+              "name": "ladies",
+              "weight": 0.00681627988792
+            },
+            {
+              "name": "mediocre",
+              "weight": 0.00674521666666
+            },
+            {
+              "name": "specials",
+              "weight": 0.00664827156569
+            },
+            {
+              "name": "cakes",
+              "weight": 0.00520735748491
+            },
+            {
+              "name": "irish",
+              "weight": 0.00501201230584
+            },
+            {
+              "name": "guys",
+              "weight": 0.00495770958093
+            },
+            {
+              "name": "love",
+              "weight": 0.00495506272734
+            },
+            {
+              "name": "crab",
+              "weight": 0.00469453751992
+            },
+            {
+              "name": "good",
+              "weight": 0.00467429803011
+            },
+            {
+              "name": "happy",
+              "weight": 0.00466494483343
+            },
+            {
+              "name": "ran",
+              "weight": 0.00449380779559
+            },
+            {
+              "name": "hour",
+              "weight": 0.00443732584788
+            },
+            {
+              "name": "place",
+              "weight": 0.00425304396944
+            },
+            {
+              "name": "14",
+              "weight": 0.00422774215022
+            }
+          ]
         }
       ]
     }
   ]
-}]}
+}

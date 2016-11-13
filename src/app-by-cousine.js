@@ -73,7 +73,7 @@
                       '#FE5D26', '#F2C078', '#454372', '#297373', '#764134'];
 
         nodeUpdate.select('circle')
-            .attr('r', 6)
+            .attr('r', 4)
             .style('fill', function (d) {
                 if (d.name.indexOf('Cousines') >= 0){
                     return 'black';
