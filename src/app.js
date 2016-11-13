@@ -69,8 +69,8 @@
                 return 'rotate(' + (d.x - 90) + ')translate(' + d.y + ')';
             });
 
-        var colors = ['#EF946C', '#C4A77D', '#70877F', '#454372','#2F2963',
-                      '#FE5D26', '#F2C078', '#7EBC89', '#297373', '#764134'];
+        var colors = ['#EF946C', '#C4A77D', '#70877F', '#7EBC89','#2F2963',
+                      '#FE5D26', '#F2C078', '#454372', '#297373', '#764134'];
 
         nodeUpdate.select('circle')
             .attr('r', 6)
